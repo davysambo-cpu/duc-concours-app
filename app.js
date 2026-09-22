@@ -73,8 +73,40 @@ const elAuthErreur = document.getElementById('auth-erreur');
 const elBtnSoumettreAuth = document.getElementById('btn-soumettre-auth');
 const elAuthLienBascule = document.getElementById('auth-lien-bascule');
 const elAuthTexteBascule = document.getElementById('auth-texte-bascule');
+const elBtnRenvoyerConfirmation = document.getElementById('btn-renvoyer-confirmation');
 
 let modeInscription = false;
+
+function afficherErreurAuth(message, succes = false, afficherRenvoi = false) {
+  elAuthErreur.textContent = message;
+  elAuthErreur.classList.toggle('auth-succes', succes);
+  elAuthErreur.classList.remove('cache');
+  elBtnRenvoyerConfirmation.classList.toggle('cache', !afficherRenvoi);
+}
+
+async function renvoyerEmailConfirmation() {
+  const email = elAuthEmail.value.trim();
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    afficherErreurAuth("Saisissez d'abord l'adresse email du compte à confirmer.");
+    elAuthEmail.focus();
+    return;
+  }
+
+  elBtnRenvoyerConfirmation.disabled = true;
+  try {
+    const { error } = await supabase.auth.resend({
+      type: 'signup',
+      email,
+      options: { emailRedirectTo: window.location.origin }
+    });
+    if (error) throw error;
+    afficherErreurAuth("Un nouvel email de confirmation vient d'être envoyé. Consultez votre boîte de réception et vos spams.", true);
+  } catch (err) {
+    afficherErreurAuth(err.message || "Impossible de renvoyer l'email de confirmation.");
+  } finally {
+    elBtnRenvoyerConfirmation.disabled = false;
+  }
+}
 
 // ========================================================
 // 1. DÉCODAGE BASE64 SÉCURISÉ (Section 2.5)
@@ -292,9 +324,7 @@ elFormAuth.addEventListener('submit', async (e) => {
         throw new Error("Supabase n'a pas confirmé la création du compte.");
       }
       if (!data.session) {
-        elAuthErreur.classList.add('auth-succes');
-        elAuthErreur.textContent = "Compte créé. Consultez votre email pour confirmer l'inscription, puis connectez-vous.";
-        elAuthErreur.classList.remove('cache');
+        afficherErreurAuth("Compte créé. Consultez votre email pour confirmer l'inscription, puis connectez-vous.", true, true);
         return;
       }
       utilisateurActuel = data.user;
@@ -317,13 +347,21 @@ elFormAuth.addEventListener('submit', async (e) => {
     synchroniserDonnees();
   } catch (err) {
     elModalAuth.classList.remove('cache');
-    elAuthErreur.classList.remove('auth-succes');
-    elAuthErreur.textContent = err.message || "Erreur de connexion.";
-    elAuthErreur.classList.remove('cache');
+    const compteNonConfirme = err.code === 'email_not_confirmed'
+      || /email not confirmed|not confirmed|confirmer votre email/i.test(err.message || '');
+    afficherErreurAuth(
+      compteNonConfirme
+        ? "Votre email n'est pas encore confirmé. Utilisez le bouton ci-dessous pour recevoir un nouveau lien."
+        : (err.message || "Erreur de connexion."),
+      false,
+      compteNonConfirme
+    );
   } finally {
     elBtnSoumettreAuth.disabled = false;
   }
 });
+
+elBtnRenvoyerConfirmation.addEventListener('click', renvoyerEmailConfirmation);
 
 // Déconnexion
 elBtnDeconnexion.addEventListener('click', async () => {

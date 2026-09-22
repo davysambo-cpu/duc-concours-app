@@ -393,6 +393,9 @@
         <button type="submit" id="btn-soumettre-auth" class="btn btn-primaire" style="margin-top: 10px;">
           Se connecter
         </button>
+        <button type="button" id="btn-renvoyer-confirmation" class="btn btn-secondaire cache" style="width: 100%; margin-top: 10px;">
+          Renvoyer l'email de confirmation
+        </button>
       </form>
 
       <div class="auth-bascule">
@@ -425,15 +428,16 @@
   <!-- SCRIPTS DANS L'ORDRE STRICT -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/dexie/3.2.4/dexie.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-  <script src="supabaseClient.js?v=19"></script>
-  <script src="db.js?v=19"></script>
-  <script src="app.js?v=19"></script>
+  <script src="supabaseClient.js?v=20"></script>
+  <script src="db.js?v=20"></script>
+  <script src="app.js?v=20"></script>
 
   <script>
     // Bascule indépendante du module principal pour garder l'inscription accessible.
     document.getElementById('auth-lien-bascule').addEventListener('click', () => {
       const inscription = document.getElementById('auth-titre').textContent !== 'Inscription Candidat';
       document.getElementById('auth-erreur').classList.add('cache');
+      document.getElementById('btn-renvoyer-confirmation').classList.add('cache');
       document.getElementById('auth-titre').textContent = inscription ? 'Inscription Candidat' : 'Connexion Candidat';
       document.getElementById('groupe-nom-complet').classList.toggle('cache', !inscription);
       document.getElementById('btn-soumettre-auth').textContent = inscription ? 'Créer mon compte' : 'Se connecter';
