@@ -283,6 +283,7 @@ elFormAuth.addEventListener('submit', async (e) => {
         email,
         password,
         options: {
+          emailRedirectTo: window.location.origin,
           data: { nom_complet: nom || "Candidat 2027" }
         }
       });
