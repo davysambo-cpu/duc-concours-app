@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>DUC CONCOURS</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="stylesheet" href="style.css?v=19">
+
+  <style>
+    /* DESIGN WHATSAPP */
+    .carte-support-whatsapp {
+      margin-top: 24px !important;
+      background: #ffffff !important;
+      border: 1.5px solid #86efac !important;
+      border-radius: 16px !important;
+      padding: 16px !important;
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+      text-align: center !important;
+      gap: 10px !important;
+      box-shadow: 0 4px 15px rgba(34, 197, 94, 0.1) !important;
+    }
+    .whatsapp-texte h3 {
+      font-size: 0.95rem !important;
+      font-weight: 800 !important;
+      color: #166534 !important;
+      margin: 0 !important;
+    }
+    .whatsapp-texte p {
+      font-size: 0.82rem !important;
+      color: #4b5563 !important;
+      margin: 4px 0 10px 0 !important;
+      line-height: 1.4 !important;
+    }
+    .btn-whatsapp {
+      display: inline-flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      gap: 8px !important;
+      background: #25d366 !important;
+      color: #ffffff !important;
+      text-decoration: none !important;
+      font-weight: 700 !important;
+      font-size: 0.9rem !important;
+      padding: 10px 20px !important;
+      border-radius: 9999px !important;
+      width: 100% !important;
+      max-width: 260px !important;
+      box-shadow: 0 4px 12px rgba(37, 211, 102, 0.35) !important;
+    }
+
+    /* MODALE DE CONNEXION CENTRÉE (GARANTIE VISIBLE) */
+    .modal-fond {
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      width: 100vw !important;
+      height: 100vh !important;
+      background: rgba(15, 23, 42, 0.75) !important;
+      backdrop-filter: blur(8px) !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      z-index: 99999 !important;
+      padding: 16px !important;
+      box-sizing: border-box !important;
+    }
+    .modal-fond.cache {
+      display: none !important;
+    }
+    .modal-boite {
+      background: #ffffff !important;
+      width: 100% !important;
+      max-width: 400px !important;
+      border-radius: 20px !important;
+      padding: 26px 22px !important;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35) !important;
+      text-align: center !important;
+      box-sizing: border-box !important;
+      animation: popModal 0.25s ease !important;
+    }
+    @keyframes popModal {
+      from { transform: scale(0.9); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+    .auth-logo {
+      font-size: 1.3rem !important;
+      font-weight: 800 !important;
+      color: #4f46e5 !important;
+      margin-bottom: 6px !important;
+    }
+    .modal-boite h2 {
+      font-size: 1.3rem !important;
+      color: #0f172a !important;
+      margin-bottom: 4px !important;
+    }
+    .modal-boite p {
+      font-size: 0.85rem !important;
+      color: #64748b !important;
+      margin-bottom: 16px !important;
+    }
+    .modal-boite .form-groupe {
+      text-align: left !important;
+      margin-bottom: 12px !important;
+    }
+    .modal-boite label {
+      display: block !important;
+      font-size: 0.82rem !important;
+      font-weight: 700 !important;
+      color: #334155 !important;
+      margin-bottom: 4px !important;
+    }
+    .modal-boite input {
+      width: 100% !important;
+      padding: 12px 14px !important;
+      border-radius: 10px !important;
+      border: 1.5px solid #cbd5e1 !important;
+      font-size: 0.95rem !important;
+      outline: none !important;
+      box-sizing: border-box !important;
+    }
+    .modal-boite input:focus {
+      border-color: #4f46e5 !important;
+    }
+    .auth-bascule {
+      margin-top: 14px !important;
+      font-size: 0.85rem !important;
+      color: #64748b !important;
+    }
+    .auth-bascule a {
+      color: #4f46e5 !important;
+      font-weight: 700 !important;
+      text-decoration: underline !important;
+      cursor: pointer !important;
+    }
+    .btn-connexion-header {
+      background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+      color: #3730a3;
+      border: 1px solid #a5b4fc;
+      padding: 7px 13px;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 800;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(79, 70, 229, 0.14);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    }
+    .btn-connexion-header:hover {
+      background: linear-gradient(135deg, #e0e7ff, #c7d2fe);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 10px rgba(79, 70, 229, 0.2);
+    }
+    #btn-ouvrir-admin {
+      background: linear-gradient(135deg, #ecfdf5, #d1fae5);
+      color: #047857;
+      border-color: #86efac;
+    }
+    #btn-ouvrir-admin:hover {
+      background: linear-gradient(135deg, #d1fae5, #a7f3d0);
+      box-shadow: 0 4px 10px rgba(16, 185, 129, 0.2);
+    }
+    #menu-actions-contenu {
+      display: none !important;
+    }
+    #menu-actions.ouvert #menu-actions-contenu {
+      display: block !important;
+    }
+    #modal-signalement.cache {
+      display: none !important;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- BARRE SUPÉRIEURE -->
+  <header class="app-header">
+    <div class="logo">
+      <span class="logo-icone">🦅</span>
+      <span class="logo-texte">DUC CONCOURS</span>
+    </div>
+    <div class="actions-entete">
+      <div id="badge-reseau" class="badge-statut statut-vert">
+        <span class="point-statut"></span>
+        <span id="texte-statut">En ligne</span>
+      </div>
+      <button id="btn-ouvrir-connexion" class="btn-connexion-header">Connexion 👤</button>
+      <div id="menu-actions" class="menu-actions cache">
+        <button id="btn-menu-actions" class="btn-menu-actions" aria-label="Ouvrir le menu" aria-expanded="false">⋮</button>
+        <div id="menu-actions-contenu" class="menu-actions-contenu">
+          <button id="btn-ouvrir-admin" class="menu-action cache">🛠️ Administration</button>
+          <button id="btn-signaler-menu" class="menu-action menu-action-signalement" disabled>🚩 Signaler une erreur</button>
+          <button id="btn-deconnexion" class="menu-action menu-action-danger" title="Se déconnecter">🚪 Déconnexion</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-main">
+
+    <!-- ÉCRAN 1 : DASHBOARD -->
+    <section id="ecran-dashboard" class="ecran actif">
+      <div class="banniere-bienvenue">
+        <h1>Bienvenue sur DUC CONCOURS ! 👋</h1>
+        <p>Votre passeport d'entraînement hors-ligne vers la réussite.</p>
+      </div>
+
+      <div class="grille-stats">
+        <div class="carte-stat">
+          <span class="stat-chiffre" id="stat-quiz-termines">0</span>
+          <span class="stat-libelle">Quiz terminés</span>
+        </div>
+        <div class="carte-stat">
+          <span class="stat-chiffre" id="stat-taux-reussite">-- %</span>
+          <span class="stat-libelle">Taux de réussite</span>
+        </div>
+      </div>
+
+      <div id="alerte-reprise" class="alerte-reprise cache">
+        <p>⚠️ Vous avez un examen interrompu en cours !</p>
+        <button id="btn-reprendre-quiz" class="btn btn-avertissement">Reprendre mon examen</button>
+      </div>
+
+      <h2 class="titre-section">Concours Blancs (Conditions Réelles)</h2>
+      <div class="grille-actions-principales">
+        <button id="btn-mode-standard" class="carte-action carte-action-primaire">
+          <div class="carte-action-icone">⏱️</div>
+          <div class="carte-action-info">
+            <h3>Concours Standard (Mixte)</h3>
+            <p>60 questions • 60 minutes • Spécialité + Culture G</p>
+          </div>
+        </button>
+
+        <button id="btn-mode-unidisciplinaire" class="carte-action carte-action-secondaire">
+          <div class="carte-action-icone">🎯</div>
+          <div class="carte-action-info">
+            <h3>Concours Unidisciplinaire</h3>
+            <p>40 questions • 40 minutes • Une seule matière</p>
+          </div>
+        </button>
+      </div>
+
+      <h2 class="titre-section">Entraînement Libre</h2>
+      <div class="carte-entrainement">
+        <div class="form-groupe">
+          <label for="select-matiere-libre">Matière :</label>
+          <select id="select-matiere-libre">
+            <option value="toutes">Toutes les matières</option>
+          </select>
+        </div>
+
+        <div class="form-groupe">
+          <label for="select-nombre-libre">Nombre de questions :</label>
+          <select id="select-nombre-libre">
+            <option value="10">10 questions (Express)</option>
+            <option value="20" selected>20 questions</option>
+            <option value="all">Toutes les questions</option>
+          </select>
+        </div>
+
+        <div class="form-case-a-cocher">
+          <input type="checkbox" id="check-leitner" checked>
+          <label for="check-leitner">🧠 <strong>Priorité aux questions à réviser</strong> (Répétition espacée)</label>
+        </div>
+
+        <button id="btn-lancer-entrainement" class="btn btn-primaire">Démarrer l'entraînement</button>
+      </div>
+
+      <!-- CARTE SUPPORT WHATSAPP -->
+      <div class="carte-support-whatsapp">
+        <div class="whatsapp-texte">
+          <h3>Une question ? Besoin d'aide ? 💬</h3>
+          <p>Contactez l'administration de DUC CONCOURS directement sur WhatsApp.</p>
+        </div>
+        <a href="https://wa.me/22600000000?text=Bonjour%20DUC%20CONCOURS%2C%20j%27ai%20une%20question." 
+           target="_blank" 
+           rel="noopener noreferrer" 
+           class="btn-whatsapp">
+          Écrire sur WhatsApp
+        </a>
+      </div>
+    </section>
+
+    <!-- ESPACE ADMINISTRATEUR -->
+    <section id="ecran-admin" class="ecran">
+      <div class="banniere-bienvenue">
+        <h1>Administration</h1>
+        <p>Suivi des comptes, résultats et signalements.</p>
+      </div>
+      <div class="grille-stats">
+        <div class="carte-stat">
+          <span class="stat-chiffre" id="admin-stat-etudiants">--</span>
+          <span class="stat-libelle">Étudiants autorisés</span>
+        </div>
+        <div class="carte-stat">
+          <span class="stat-chiffre" id="admin-stat-signalements">--</span>
+          <span class="stat-libelle">Signalements ouverts</span>
+        </div>
+        <div class="carte-stat">
+          <span class="stat-chiffre" id="admin-stat-sessions">--</span>
+          <span class="stat-libelle">Sessions synchronisées</span>
+        </div>
+      </div>
+      <div class="carte-entrainement">
+        <h2 class="titre-section">Étudiants</h2>
+        <div id="admin-liste-etudiants"></div>
+      </div>
+      <div class="carte-entrainement">
+        <h2 class="titre-section">Signalements récents</h2>
+        <div id="admin-liste-signalements"></div>
+      </div>
+      <button id="btn-retour-dashboard-admin" class="btn btn-primaire">Retour au Dashboard</button>
+    </section>
+
+    <!-- ÉCRAN 2 & 3 : QUIZ -->
+    <section id="ecran-quiz" class="ecran">
+      <div class="quiz-barre-infos">
+        <div class="progression-texte" id="compteur-questions">Question 1 / 60</div>
+        <div id="chrono-container" class="chrono-badge">
+          ⏳ <span id="chrono-temps">60:00</span>
+        </div>
+      </div>
+
+      <div class="barre-progression-fond">
+        <div id="barre-progression-remplissage" class="barre-progression-remplissage"></div>
+      </div>
+
+      <div class="carte-question">
+        <div class="question-en-tete">
+          <span id="badge-matiere" class="badge-matiere">Matière</span>
+          <span id="badge-type-reponse" class="badge-type">Choix unique</span>
+        </div>
+
+        <h2 id="texte-question" class="texte-question">Chargement...</h2>
+        <div id="liste-options" class="liste-options"></div>
+
+        <div id="bloc-explication-directe" class="bloc-explication cache">
+          <div class="explication-titre">💡 Explication :</div>
+          <p id="texte-explication-directe"></p>
+        </div>
+
+        <div class="actions-quiz">
+          <button id="btn-action-quiz" class="btn btn-primaire" disabled>Valider la réponse</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ÉCRAN 4 : BILAN -->
+    <section id="ecran-bilan" class="ecran">
+      <div class="carte-score-bilan">
+        <h2>Résultat de la Session</h2>
+        <div class="score-cercle">
+          <span id="bilan-score-note">0</span>
+          <span id="bilan-score-max">/ 60</span>
+        </div>
+        <p id="bilan-mention" class="bilan-mention">Bien joué !</p>
+        <button id="btn-retour-dashboard" class="btn btn-primaire">Retour au Dashboard</button>
+      </div>
+
+      <h3 class="titre-section">Correction détaillée :</h3>
+      <div id="liste-accordions-correction" class="liste-corrections"></div>
+    </section>
+
+  </main>
+
+  <!-- FENÊTRE POPUP DE CONNEXION / INSCRIPTION -->
+  <div id="modal-auth" class="modal-fond cache">
+    <div class="modal-boite">
+      <div class="auth-logo">🦅 DUC CONCOURS</div>
+      <h2 id="auth-titre">Connexion Candidat</h2>
+      <p id="auth-sous-titre">Connectez-vous pour synchroniser vos scores avec le Cloud.</p>
+
+      <form id="form-auth" novalidate>
+        <div id="groupe-nom-complet" class="form-groupe cache">
+          <label for="auth-nom">Nom et Prénom :</label>
+          <input type="text" id="auth-nom" placeholder="Ex: Sambo Traoré">
+        </div>
+
+        <div class="form-groupe">
+          <label for="auth-email">Adresse Email :</label>
+          <input type="email" id="auth-email" placeholder="votre.email@exemple.com" required>
+        </div>
+
+        <div class="form-groupe">
+          <label for="auth-mdp">Mot de passe :</label>
+          <input type="password" id="auth-mdp" placeholder="••••••••" required minlength="6">
+        </div>
+
+        <div id="auth-erreur" class="auth-erreur cache"></div>
+
+        <button type="submit" id="btn-soumettre-auth" class="btn btn-primaire" style="margin-top: 10px;">
+          Se connecter
+        </button>
+      </form>
+
+      <div class="auth-bascule">
+        <span id="auth-texte-bascule">Pas encore de compte ?</span>
+        <button type="button" id="auth-lien-bascule">Créer un compte</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FENÊTRE POPUP DE SIGNALEMENT -->
+  <div id="modal-signalement" class="modal-fond cache" role="dialog" aria-modal="true" aria-labelledby="signalement-titre">
+    <div class="modal-boite modal-signalement-boite">
+      <div class="auth-logo">🚩 DUC CONCOURS</div>
+      <h2 id="signalement-titre">Signaler une erreur</h2>
+      <p>Indiquez brièvement ce qui vous semble incorrect. Le commentaire est facultatif.</p>
+      <form id="form-signalement">
+        <div class="form-groupe">
+          <label for="signalement-commentaire">Votre commentaire :</label>
+          <textarea id="signalement-commentaire" rows="4" maxlength="1000"
+            placeholder="Ex. La bonne réponse semble être la proposition B."></textarea>
+        </div>
+        <div class="actions-modal">
+          <button type="button" id="btn-annuler-signalement" class="btn btn-secondaire">Annuler</button>
+          <button type="submit" id="btn-envoyer-signalement" class="btn btn-primaire">Envoyer le signalement</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- SCRIPTS DANS L'ORDRE STRICT -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dexie/3.2.4/dexie.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabaseClient.js?v=19"></script>
+  <script src="db.js?v=19"></script>
+  <script src="app.js?v=19"></script>
+
+  <script>
+    // Bascule indépendante du module principal pour garder l'inscription accessible.
+    document.getElementById('auth-lien-bascule').addEventListener('click', () => {
+      const inscription = document.getElementById('auth-titre').textContent !== 'Inscription Candidat';
+      document.getElementById('auth-erreur').classList.add('cache');
+      document.getElementById('auth-titre').textContent = inscription ? 'Inscription Candidat' : 'Connexion Candidat';
+      document.getElementById('groupe-nom-complet').classList.toggle('cache', !inscription);
+      document.getElementById('btn-soumettre-auth').textContent = inscription ? 'Créer mon compte' : 'Se connecter';
+      document.getElementById('auth-texte-bascule').textContent = inscription ? 'Déjà inscrit ?' : 'Pas encore de compte ?';
+      document.getElementById('auth-lien-bascule').textContent = inscription ? 'Se connecter' : 'Créer un compte';
+    });
+
+    // Bouton manuel d'ouverture de la connexion si besoin
+    document.getElementById('btn-ouvrir-connexion').addEventListener('click', () => {
+      document.getElementById('modal-auth').classList.remove('cache');
+    });
+
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(() => console.log('🚀 PWA DUC CONCOURS : Enregistrée !'))
+          .catch((err) => console.log('Échec SW :', err));
+      });
+    }
+  </script>
+</body>
+</html>

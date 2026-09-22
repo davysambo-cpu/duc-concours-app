@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+.agents/
+.claude/
+.vscode/
+*.pyc
+a_verifier.json
+test_questions.json
+donnees_brutes/
+donnees_validees/
+nouvelles_questions.json
