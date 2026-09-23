@@ -1,1481 +1,5 @@
 [
   {
-    "id": "FR_2026_051",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Parmi ces explorateurs, lequel a été reçu par le Mogho Naaba Wobgo avec qui un traité fut signé ?",
-    "options": [
-      "Binger",
-      "Faidherbe",
-      "Ferguson",
-      "Monteil"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "R2VvcmdlcyBFeWtlbSBGZXJndXNvbiBlc3QgcHLDqXNlbnTDqSBkYW5zIGxhIHNvdXJjZSBjb21tZSBsJ2V4cGxvcmF0ZXVyIGF5YW50IHNpZ27DqSBsZSAyIGp1aWxsZXQgMTg5NCB1biB0cmFpdMOpIGQnYW1pdGnDqSBldCBkZSBjb21tZXJjZSBhdmVjIGxlIE5hYmEgV29iZ28u",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_052",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "En quelle année le royaume de Ouagadougou a été conquis par les Français ?",
-    "options": [
-      "Le 1er septembre 1896",
-      "Le 1er septembre 1895",
-      "Le 1er septembre 1900",
-      "Le 1er septembre 1905"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIDFlciBzZXB0ZW1icmUgMTg5NiBtYXJxdWUgbCdlbnRyw6llIGRlcyB0cm91cGVzIGNvbG9uaWFsZXMgZnJhbsOnYWlzZXMgZGFucyBPdWFnYWRvdWdvdS4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_053",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Comment les territoires de l'actuel Burkina Faso ont été conquis ?",
-    "options": [
-      "Par les armes",
-      "Avec de l'argent",
-      "Par la ruse",
-      "Les territoires n'ont jamais été conquis"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIHDDqW7DqXRyYXRpb24gY29sb25pYWxlIHMnZXN0IGFjY29tcGFnbsOpZSBkZSByw6lzaXN0YW5jZXMgbG9jYWxlcyByw6lwcmltw6llcyBtaWxpdGFpcmVtZW50Lg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_054",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quand a eu lieu la révolte Bwaba contre l'administration coloniale française au Burkina Faso ?",
-    "options": [
-      "1917-1918",
-      "1915-1916",
-      "1939-1940",
-      "1815-1816"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIHNpdHVlIGxhIHLDqXZvbHRlIEJ3YWJhIGVuIDE5MTUtMTkxNiBldCBsYSBwcsOpc2VudGUgY29tbWUgbCd1bmUgZGVzIGdyYW5kZXMgcsOpdm9sdGVzIGFudGljb2xvbmlhbGVzIGRlIGxhIHLDqWdpb24u",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_055",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel est le fait marquant de la conquête du Yatenga ?",
-    "options": [
-      "Naba Bagaré accueille en 1895 les Français au Yatenga",
-      "Naba Bagaré se révolte contre les Français",
-      "Naba Bagaré est arrêté et mis en prison",
-      "Naba Bagaré signe un traité de protectorat avec les Français"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "U2Vsb24gbGEgc291cmNlLCBsZSAxNCBtYWkgMTg5NSwgTmFiYSBCYWdhcsOpIHNpZ25lIHVuIHRyYWl0w6kgZGUgcHJvdGVjdG9yYXQgYXZlYyBsZXMgRnJhbsOnYWlzLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_056",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel explorateur français signa un traité de protectorat avec le Yatenga en 1895 ?",
-    "options": [
-      "Gustave Binger",
-      "Georges Destenave",
-      "Kurt Von François",
-      "Dr Crozat"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGF0dHJpYnVlIGF1IGNhcGl0YWluZSBHZW9yZ2VzIERlc3RlbmF2ZSBsYSBuw6lnb2NpYXRpb24gZXQgbGEgc2lnbmF0dXJlIGR1IHRyYWl0w6kgZGUgcHJvdGVjdG9yYXQgYXZlYyBsZSBOYWJhIEJhZ2Fyw6kgZHUgWWF0ZW5nYS4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_057",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Parmi ces explorateurs du Burkina Faso, quel est celui qui fut le premier européen à pénétrer à Ouagadougou, capitale du Mogho ?",
-    "options": [
-      "Docteur Krause",
-      "Louis Gustave Binger",
-      "Heinrich Barth",
-      "Kurt Von François"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIGRvY3RldXIgS3JhdXNlLCBwYXJ0aSBkJ0FjY3JhIGxlIDEyIG1haSAxODg2LCBhcnJpdmEgw6AgT3VhZ2Fkb3Vnb3UgbGUgMjQgc2VwdGVtYnJlIDE4ODYgZXQgZnV0IGxlIHByZW1pZXIgRXVyb3DDqWVuIMOgIHkgcMOpbsOpdHJlci4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_058",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Lequel de ces Mogho Naaba a tenté d'instaurer une monarchie constitutionnelle en Haute-Volta dans les années 1958 ?",
-    "options": [
-      "Naaba Baongo",
-      "Naaba Koom II",
-      "Naaba Saaga",
-      "Naaba Kougri"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIE1vZ2hvIE5hYWJhIEtvdWdyaSBhIHRlbnTDqSBkJ8OpdGFibGlyIHVuZSBtb25hcmNoaWUgY29uc3RpdHV0aW9ubmVsbGUgbGUgMTcgb2N0b2JyZSAxOTU4Lg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_059",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Parmi les causes de l'échec des résistances au Burkina Faso suivantes, laquelle est une cause interne ?",
-    "options": [
-      "La supériorité militaire des Français",
-      "L'ignorance des conséquences des traités par les chefs traditionnels",
-      "La ruse des Français à travers la signature des traités",
-      "Les accords entre Français, Britanniques et Allemands"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGNvbnNpZMOocmUgY29tbWUgY2F1c2UgaW50ZXJuZSBsJ2lnbm9yYW5jZSBwYXIgY2VydGFpbnMgY2hlZnMgdHJhZGl0aW9ubmVscyBkZSBsYSBwb3J0w6llIGRlcyB0cmFpdMOpcyBxdSdpbHMgc2lnbmFpZW50Lg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_060",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Date de suppression de la colonie de la Haute-Volta ?",
-    "options": [
-      "Mars 1919",
-      "Septembre 1932",
-      "Septembre 1950",
-      "Septembre 1947"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIGNvbG9uaWUgZGUgSGF1dGUtVm9sdGEgZnV0IGRpc3NvdXRlIGxlIDUgc2VwdGVtYnJlIDE5MzIgZXQgcGFydGFnw6llIGVudHJlIGxhIEPDtHRlIGQnSXZvaXJlLCBsZSBTb3VkYW4gZnJhbsOnYWlzIGV0IGxlIE5pZ2VyLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_061",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Que vous rappelle la date du 04 septembre 1947 au Burkina Faso ?",
-    "options": [
-      "Crise économique",
-      "Reconstitution de la Haute-Volta",
-      "Dislocation du territoire",
-      "Concurrence entre différents groupes ethniques"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGUgNCBzZXB0ZW1icmUgMTk0NyBjb3JyZXNwb25kLCBzZWxvbiBsYSBzb3VyY2UsIMOgIGxhIHJlY29uc3RpdHV0aW9uIGRlIGxhIGNvbG9uaWUgZGUgSGF1dGUtVm9sdGEgZGFucyBzZXMgZnJvbnRpw6hyZXMgaW5pdGlhbGVzLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_062",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La date du 11 décembre 1958 dans l'histoire de la Haute-Volta vous rappelle :",
-    "options": [
-      "La proclamation de l'indépendance par Maurice Yaméogo",
-      "La proclamation de la République",
-      "L'arrivée de Thomas Sankara au pouvoir",
-      "Un soulèvement qui permet à Sangoulé Lamizana d'arriver au pouvoir"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIHByw6lzZW50ZSBsZSAxMSBkw6ljZW1icmUgMTk1OCBjb21tZSBsYSBkYXRlIGRlIGNyw6lhdGlvbiBkZSBsYSBSw6lwdWJsaXF1ZSBkZSBIYXV0ZS1Wb2x0YSBhdSBzZWluIGRlIGxhIENvbW11bmF1dMOpIGZyYW7Dp2Fpc2Uu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_063",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "En quelle année le Burkina Faso a intégré la Communauté française ?",
-    "options": [
-      "7 septembre 1958",
-      "28 septembre 1958",
-      "20 octobre 1958",
-      "11 décembre 1958"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGxlIDI4IHNlcHRlbWJyZSAxOTU4IGNvbW1lIGRhdGUgZHUgcsOpZsOpcmVuZHVtIGFwcHJvdXZhbnQgbGEgQ29uc3RpdHV0aW9uIGRlIGxhIFZlIFLDqXB1YmxpcXVlIGZyYW7Dp2Fpc2UgZXQgbCdpbnTDqWdyYXRpb24gw6AgbGEgQ29tbXVuYXV0w6kgZnJhbsOnYWlzZS4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_064",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La République de Haute-Volta, actuel Burkina Faso, est admise à l'ONU :",
-    "options": [
-      "Le 5 août 1958",
-      "Le 19 décembre 1960",
-      "Le 20 septembre 1960",
-      "Le 19 décembre 1961"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIEhhdXRlLVZvbHRhIGEgw6l0w6kgYWRtaXNlIMOgIGwnT3JnYW5pc2F0aW9uIGRlcyBOYXRpb25zIHVuaWVzIGxlIDIwIHNlcHRlbWJyZSAxOTYwLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_065",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La loi-cadre fut appliquée en Haute-Volta en quelle année ?",
-    "options": [
-      "1932",
-      "1957",
-      "1919",
-      "1947"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIGxvaS1jYWRyZSBEZWZmZXJyZSBhIMOpdMOpIGFwcGxpcXXDqWUgZW4gSGF1dGUtVm9sdGEgZW4gMTk1Ny4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_066",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle date marque le changement du nom des symboles de la Haute-Volta ?",
-    "options": [
-      "4 août 1983",
-      "4 août 1984",
-      "5 août 1983",
-      "5 août 1984"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIDQgYW/Du3QgMTk4NCwgVGhvbWFzIFNhbmthcmEgcmViYXB0aXNlIGxhIEhhdXRlLVZvbHRhIGVuIEJ1cmtpbmEgRmFzby4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_067",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Qui fut le Gouverneur de la Haute-Volta à sa création en 1919 ?",
-    "options": [
-      "Ouezzin Coulibaly",
-      "Edouard Hesting",
-      "Yalgado Ouédraogo",
-      "Nazi Boni"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIEZyw6lkw6lyaWMgQ2hhcmxlcyBFZG91YXJkIEFsZXhpcyBIZXN0aW5nIGZ1dCBsZSBwcmVtaWVyIGdvdXZlcm5ldXIgZGUgbGEgSGF1dGUtVm9sdGEgZGUgbWFpIDE5MTkgw6AgZMOpY2VtYnJlIDE5Mjcu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_068",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Qui a été Vice-Président de la République de la Haute-Volta, actuel Burkina Faso ?",
-    "options": [
-      "Nazi Boni",
-      "Yalgado Ouédraogo",
-      "Daniel Ouézzin Coulibaly",
-      "Joseph Ouédraogo"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGTDqXNpZ25lIERhbmllbCBPdcOpenppbiBDb3VsaWJhbHkgY29tbWUgVmljZS1QcsOpc2lkZW50IGRlIGxhIFLDqXB1YmxpcXVlIGRlIEhhdXRlLVZvbHRhLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_069",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "En mars 1957, quelle personnalité a formé le premier gouvernement voltaïque issu de la loi-cadre ?",
-    "options": [
-      "Maurice Yaméogo",
-      "Daniel Ouézzin Coulibaly",
-      "Michel Dorange",
-      "Yalgado Ouédraogo"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIERhbmllbCBPdcOpenppbiBDb3VsaWJhbHkgZGV2aWVudCBsZSBjaGVmIGR1IHByZW1pZXIgZ291dmVybmVtZW50IGlzc3UgZGVzIMOpbGVjdGlvbnMgZGUgMTk1Ny4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_070",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Je suis celui qui a formé le premier Conseil de Gouvernement de la Haute-Volta le 17 mai 1957. Qui suis-je ?",
-    "options": [
-      "Daniel Ouezzin Coulibaly",
-      "Henri Guissou",
-      "Maurice Yaméogo",
-      "Philippe Zinda Kaboré"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIERhbmllbCBPdWV6emluIENvdWxpYmFseSBhIGZvcm3DqSBsZSBwcmVtaWVyIENvbnNlaWwgZGUgR291dmVybmVtZW50IGFwcsOocyBsYSB2aWN0b2lyZSBkdSBSREEgYXV4IMOpbGVjdGlvbnMgZGUgbWFycyAxOTU3Lg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_071",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel a été le dernier poste de Maurice Yaméogo avant d'être président de la Haute-Volta ?",
-    "options": [
-      "Gouverneur de la Haute-Volta",
-      "Ministre de l'Économie et des Finances",
-      "Ministre d'État",
-      "Ministre de l'Intérieur"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIE1hdXJpY2UgWWFtw6lvZ28gb2NjdXBhaXQgbGUgcG9zdGUgZGUgbWluaXN0cmUgZGUgbCdJbnTDqXJpZXVyIGF2YW50IGQnYWNjw6lkZXIgw6AgbGEgcHLDqXNpZGVuY2Uu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_072",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Choisir la bonne réponse :",
-    "options": [
-      "Le 03 janvier 1966 Maurice Yaméogo a échoué la guerre contre le Mali",
-      "Le 03 janvier 1966 Maurice Yaméogo a démissionné suite à un soulèvement populaire",
-      "Le 03 janvier 1966 Maurice Yaméogo a reconstitué la Haute-Volta",
-      "Le 03 janvier 1966 Maurice Yaméogo proclame l'indépendance de la Haute-Volta"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIE1hdXJpY2UgWWFtw6lvZ28gYSBkw6ltaXNzaW9ubsOpIGxlIDMgamFudmllciAxOTY2IMOgIGxhIHN1aXRlIGRlIGdyw6h2ZXMgZXQgZGUgbWFuaWZlc3RhdGlvbnMgcG9wdWxhaXJlcy4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_073",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Parmi les présidents voltaïques, lequel a créé le Comité militaire de redressement et de progrès national ?",
-    "options": [
-      "Maurice Yaméogo",
-      "Saye Zerbo",
-      "A. Sangoulé Lamizana",
-      "Jean-Baptiste Ouédraogo"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIENNUlBOIGEgw6l0w6kgY3LDqcOpIGxlIDI1IG5vdmVtYnJlIDE5ODAgw6AgbGEgc3VpdGUgZHUgY291cCBkJ8OJdGF0IGR1IGNvbG9uZWwgU2F5ZSBaZXJiby4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_074",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle guerre est appelée « Guerre de Noël » ou « Guerre des pauvres » ?",
-    "options": [
-      "La première guerre mondiale",
-      "La deuxième guerre Burkina-Mali",
-      "La deuxième guerre mondiale",
-      "La guerre au Libéria"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGlkZW50aWZpZSBsYSBkZXV4acOobWUgZ3VlcnJlIEJ1cmtpbmEtTWFsaSwgw6lnYWxlbWVudCBhcHBlbMOpZSBndWVycmUgZGUgbGEgYmFuZGUgZCdBZ2FjaGVyLCBjb21tZSBsYSDCqyBHdWVycmUgZGUgTm/Dq2wgwrsu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_075",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le jugement de la Cour internationale de justice partageant la bande d'Agacher entre le Burkina Faso et le Mali date du :",
-    "options": [
-      "22 décembre 1986",
-      "21 décembre 1986",
-      "20 décembre 1986",
-      "19 décembre 1986"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIENvdXIgaW50ZXJuYXRpb25hbGUgZGUganVzdGljZSBhIHJlbmR1IHNvbiBhcnLDqnQgc3VyIGxhIGJhbmRlIGQnQWdhY2hlciBsZSAyMiBkw6ljZW1icmUgMTk4Ni4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_076",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Que vous rappelle la date du 15 octobre 1987 ?",
-    "options": [
-      "Montée au pouvoir de Thomas Sankara",
-      "Soulèvement populaire",
-      "Coup d'État et prise du pouvoir par le Conseil du Salut du Peuple",
-      "Assassinat du Président Thomas Sankara et prise du pouvoir par le Front populaire"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGFzc29jaWUgbGUgMTUgb2N0b2JyZSAxOTg3IMOgIGwnYXNzYXNzaW5hdCBkZSBUaG9tYXMgU2Fua2FyYSBldCDDoCBsYSBwcmlzZSBkdSBwb3V2b2lyIHBhciBsZSBGcm9udCBwb3B1bGFpcmUgZGlyaWfDqSBwYXIgQmxhaXNlIENvbXBhb3LDqS4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_077",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est une manifestation de l'instabilité politique du Burkina Faso de 1960 à 1983 ?",
-    "options": [
-      "Insécurité grandissante",
-      "Montée du terrorisme",
-      "La fréquence des coups d'État",
-      "Conflit intercommunautaire"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIHNvdWxpZ25lIGxhIGZyw6lxdWVuY2UgZGVzIGNvdXBzIGQnw4l0YXQgZHVyYW50IGNldHRlIHDDqXJpb2RlIGNvbW1lIG1hbmlmZXN0YXRpb24gZGUgbCdpbnN0YWJpbGl0w6kgcG9saXRpcXVlLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_078",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel est le rôle des élites dans l'émancipation de la Haute-Volta ?",
-    "options": [
-      "La sensibilisation à travers les partis politiques",
-      "La participation à la guerre d'indépendance",
-      "Le musellement de l'administration",
-      "L'incitation au boycott des produits français"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGF0dHJpYnVlIGF1eCDDqWxpdGVzIGludGVsbGVjdHVlbGxlcyBldCBwb2xpdGlxdWVzIHVuIHLDtGxlIGRlIHNlbnNpYmlsaXNhdGlvbiBwYXIgbCdpbnRlcm3DqWRpYWlyZSBkZXMgcGFydGlzIHBvbGl0aXF1ZXMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_079",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel est l'insolite parmi ces mouvements d'émancipation de la colonie de la Haute-Volta ?",
-    "options": [
-      "Les révoltes des populations",
-      "Les protestations des chefs traditionnels",
-      "L'opposition des élites politiques",
-      "La guérilla urbaine"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIHByw6lzZW50ZSBsYSBndcOpcmlsbGEgdXJiYWluZSBjb21tZSBsJ8OpbMOpbWVudCBxdWkgbmUgY29ycmVzcG9uZCBwYXMgYXV4IG1vdXZlbWVudHMgZCfDqW1hbmNpcGF0aW9uIGNpdMOpcy4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_080",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Qu'est-ce qui explique le succès de la révolution démocratique populaire ?",
-    "options": [
-      "La peur suscitée par les jeunes militaires",
-      "L'enthousiasme populaire de la jeunesse",
-      "L'adhésion totale des masses populaires",
-      "La promesse faite par les nouveaux au pouvoir"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGF0dHJpYnVlIGxlIHN1Y2PDqHMgZGUgbGEgcsOpdm9sdXRpb24gZCdhb8O7dCAxOTgzIMOgIGwnYWRow6lzaW9uIGRlcyBtYXNzZXMgcG9wdWxhaXJlcyBldCDDoCBsZXVyIG1vYmlsaXNhdGlvbi4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_081",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Sous le régime du parti unique UDV-RDA, le président Maurice Yaméogo, candidat unique à l'élection présidentielle du 3 octobre 1965, est réélu avec :",
-    "options": [
-      "89,99 % des suffrages exprimés",
-      "95,98 % des suffrages exprimés",
-      "96,98 % des suffrages exprimés",
-      "99,98 % des suffrages exprimés"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIE1hdXJpY2UgWWFtw6lvZ28gYSDDqXTDqSByw6nDqWx1IGF2ZWMgOTksOTggJSBkZXMgc3VmZnJhZ2VzIGV4cHJpbcOpcy4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_082",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Dans quel gouvernement français le Docteur Joseph Conombo est nommé ministre pour la première fois ?",
-    "options": [
-      "Le gouvernement de Pierre Mendès-France",
-      "Le gouvernement de Guy Mollet",
-      "Le gouvernement de Pierre Messmer",
-      "Aucune bonne réponse"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIEpvc2VwaCBDb25vbWJvIGEgw6l0w6kgbm9tbcOpIHBvdXIgbGEgcHJlbWnDqHJlIGZvaXMgZGFucyBsZSBnb3V2ZXJuZW1lbnQgZGUgUGllcnJlIE1lbmTDqHMtRnJhbmNlIGVuIDE5NTQu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_083",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le territoire de la Haute-Volta, eu égard à sa situation de 1932 à 1947, a eu une contribution particulière à la Seconde Guerre mondiale. Quelle a été cette contribution particulière ?",
-    "options": [
-      "Des hommes mobilisés pour les combats",
-      "De la main-d'œuvre servie à d'autres colonies de l'AOF",
-      "Des matières premières pour l'industrie de guerre",
-      "Des vivres pour nourrir les belligérants sur les fronts"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXUnYXByw6hzIGxhIGRpc2xvY2F0aW9uIGRlIDE5MzIsIGxlcyBwb3B1bGF0aW9ucyB2b2x0YcOvcXVlcyBvbnQgbm90YW1tZW50IHNlcnZpIGRlIG1haW4tZCfFk3V2cmUgZGFucyBkJ2F1dHJlcyB0ZXJyaXRvaXJlcyBkZSBsJ0FPRi4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_084",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Titulaire d'un diplôme de médecin obtenu à Dakar en 1942, puis tirailleur sénégalais pendant la Seconde Guerre mondiale, il fut Premier ministre de la Haute-Volta du 7 juillet 1978 au 25 novembre 1980. Il s'agit de :",
-    "options": [
-      "Gérard Kango Ouédraogo",
-      "Jean-Baptiste Ouédraogo",
-      "Youssouf Ouédraogo",
-      "Joseph Conombo"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGlkZW50aWZpZSBKb3NlcGggQ29ub21ibyBjb21tZSBsYSBwZXJzb25uYWxpdMOpIGNvcnJlc3BvbmRhbnQgw6AgY2V0dGUgZGVzY3JpcHRpb24u",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_085",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le régime politique du Burkina Faso est :",
-    "options": [
-      "Parlementaire",
-      "Présidentiel",
-      "Parlementaire rationalisé",
-      "Où le chef d'État est élu"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgY29tbWUgcsOpcG9uc2UgwqsgcHLDqXNpZGVudGllbGxlIMK7LCB0b3V0IGVuIHByw6ljaXNhbnQgZGFucyBzb24gZXhwbGljYXRpb24gcXVlIGxlIHN5c3TDqG1lIGVzdCDDoCBmb3J0ZSBkb21pbmFudGUgcHLDqXNpZGVudGllbGxlLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_086",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le Premier Ministre est nommé par :",
-    "options": [
-      "La Majorité",
-      "Le président du Faso",
-      "L'Assemblée Nationale",
-      "L'opposition"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIG5vbWluYXRpb24gZHUgUHJlbWllciBNaW5pc3RyZSByZWzDqHZlIGR1IHByw6lzaWRlbnQgZHUgRmFzby4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_087",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le nombre des membres de l'Assemblée législative de la transition est de :",
-    "options": [
-      "71",
-      "75",
-      "65",
-      "90"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGwnQXNzZW1ibMOpZSBsw6lnaXNsYXRpdmUgZGUgdHJhbnNpdGlvbiBlc3QgY29tcG9zw6llIGRlIDcxIG1lbWJyZXMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_088",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Selon la charte de la transition, en cas de vacance du pouvoir, qui assure l'intérim du président de la transition ?",
-    "options": [
-      "Le Premier Ministre",
-      "Le président de l'Assemblée de Transition",
-      "Le président de la Cour constitutionnelle",
-      "Le Ministre de la Défense"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIHByw6lzaWRlbnQgZGUgbCdBc3NlbWJsw6llIGRlIFRyYW5zaXRpb24gYXNzdXJlIGwnaW50w6lyaW0gZW4gY2FzIGRlIHZhY2FuY2UgZHUgcG91dm9pci4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_089",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le Burkina Faso a connu combien de présidents civils ?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGNvbXB0ZSB0cm9pcyBwcsOpc2lkZW50cyBjaXZpbHMgOiBNYXVyaWNlIFlhbcOpb2dvLCBNaWNoZWwgS2FmYW5kbyBldCBSb2NoIE1hcmMgQ2hyaXN0aWFuIEthYm9yw6ku",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_090",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Donner la date de la rencontre des anciens Présidents du Faso avec l'ancien Président de la transition Paul-Henri Sandaogo Damiba.",
-    "options": [
-      "7 juillet 2022",
-      "8 juillet 2022",
-      "9 juillet 2022",
-      "10 juillet 2022"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGxlIDgganVpbGxldCAyMDIyIGNvbW1lIGRhdGUgZGUgY2V0dGUgcmVuY29udHJlLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_091",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "multiple",
-    "question": "Qui fut Lionel Bilgo dans le gouvernement de la transition du lieutenant-colonel Paul-Henri Sandaogo Damiba ?",
-    "options": [
-      "Porte-parole du gouvernement",
-      "Ministre de la Communication",
-      "Ministre de l'Éducation nationale",
-      "Secrétaire général du gouvernement"
-    ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGRldXggZm9uY3Rpb25zIHBvdXIgTGlvbmVsIEJpbGdvIDogcG9ydGUtcGFyb2xlIGR1IGdvdXZlcm5lbWVudCBldCBtaW5pc3RyZSBkZSBsJ8OJZHVjYXRpb24gbmF0aW9uYWxlLiBDZXR0ZSBkb25uw6llIHNvdXJjZSBlc3QgZG9uYyBpbmNvbXBhdGlibGUgYXZlYyBsZSB0eXBlIMKrIHNpbmdsZSDCuy4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_092",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Date de l'installation des 71 membres de l'Assemblée législative de la Transition Ibrahim Traoré :",
-    "options": [
-      "11/11/2022",
-      "18/03/2022",
-      "25/10/2022",
-      "Aucune des réponses"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlcyA3MSBtZW1icmVzIGRlIGwnQUxUIG9udCDDqXTDqSBvZmZpY2llbGxlbWVudCBpbnN0YWxsw6lzIGxlIDExIG5vdmVtYnJlIDIwMjIu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_093",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Qui est le Secrétaire général de la Transition ?",
-    "options": [
-      "Jean Emmanuel Ouédraogo",
-      "Jacques Sosthène Dingara",
-      "Lionel Bilgo",
-      "Aucune réponse"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGTDqXNpZ25lIEphY3F1ZXMgU29zdGjDqG5lIERpbmdhcmEgY29tbWUgU2VjcsOpdGFpcmUgZ8OpbsOpcmFsIGR1IGdvdXZlcm5lbWVudCBldCBkdSBDb25zZWlsIGRlcyBtaW5pc3RyZXMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_094",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "multiple",
-    "question": "Quel est le nom de l'actuel Premier ministre du Burkina et sa date de nomination ?",
-    "options": [
-      "Apollinaire Joachim Kyélem de Tambèla",
-      "Ouédraogo Albert",
-      "21 octobre 2022",
-      "03 mars 2022"
-    ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGNvbW1lIHLDqXBvbnNlIEFwb2xsaW5haXJlIEpvYWNoaW0gS3nDqWxlbSBkZSBUYW1iw6hsYSBldCBjb21tZSBkYXRlIGRlIG5vbWluYXRpb24gbGUgMjEgb2N0b2JyZSAyMDIyLiBMYSBxdWVzdGlvbiBkZW1hbmRlIGRldXggaW5mb3JtYXRpb25zLCBtYWlzIGxlcyBvcHRpb25zIGxlcyBzw6lwYXJlbnQsIGNlIHF1aSByZW5kIGxhIHN0cnVjdHVyZSBpbmNvbXBhdGlibGUgYXZlYyB1biBRQ00gc3RyaWN0ZW1lbnQgc2luZ2xlLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_095",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le gouvernement de la Transition est composé de :",
-    "options": [
-      "20 ministres",
-      "30 ministres",
-      "24 ministres",
-      "35 ministres"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIGdvdXZlcm5lbWVudCBkZSBsYSBUcmFuc2l0aW9uIGVzdCBjb21wb3PDqSBkZSAyNCBtaW5pc3RyZXMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_096",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est la dénomination du mouvement qui a favorisé l'arrivée du lieutenant-colonel Paul-Henri Sandaogo Damiba au pouvoir ?",
-    "options": [
-      "MPRS",
-      "MPLR",
-      "MPSR",
-      "MSPR"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIG1vdXZlbWVudCBlc3QgbGUgTVBTUiwgTW91dmVtZW50IFBhdHJpb3RpcXVlIHBvdXIgbGEgU2F1dmVnYXJkZSBldCBsYSBSZXN0YXVyYXRpb24u",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_097",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel est le premier groupe djihadiste de l'histoire du Burkina Faso ?",
-    "options": [
-      "Al-Mourabitoune",
-      "Al-Irchad",
-      "Ansaroul Islam",
-      "Ansar al-Charia"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGlkZW50aWZpZSBBbnNhcm91bCBJc2xhbSBjb21tZSBsZSBwcmVtaWVyIGdyb3VwZSBkamloYWRpc3RlIGRlIGwnaGlzdG9pcmUgZHUgQnVya2luYSBGYXNvIGV0IGluZGlxdWUgc2EgZm9uZGF0aW9uIGVuIDIwMTYu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_098",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "multiple",
-    "question": "Les zones d'intérêt militaire créées au Burkina Faso sont :",
-    "options": [
-      "L'Est",
-      "Le Nord",
-      "Le Centre-Nord",
-      "Le Sahel"
-    ],
-    "reponses_correctes": "WzAsIDNd",
-    "explication": "TGEgc291cmNlIGNpdGUgbCdFc3QgZXQgbGUgU2FoZWwuIERldXggcsOpcG9uc2VzIHNvbnQgZG9uYyBjb3JyZWN0ZXMgZGFucyBsYSBzb3VyY2UsIGNlIHF1aSBlc3QgaW5jb21wYXRpYmxlIGF2ZWMgbGUgdHlwZSDCqyBzaW5nbGUgwrsu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_099",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La deuxième région militaire du Burkina Faso est :",
-    "options": [
-      "Ouagadougou",
-      "Kaya",
-      "Bobo Dioulasso",
-      "Dori"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIEJvYm8tRGlvdWxhc3NvIGFicml0ZSBsZSBjb21tYW5kZW1lbnQgZGUgbGEgMmUgUsOpZ2lvbiBNaWxpdGFpcmUu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_100",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Dans le cadre de la migration au Burkina Faso, que signifie le terme PDI ?",
-    "options": [
-      "Personne déplacée interne à cause de l'insécurité",
-      "Personne déplacée à l'extérieur du pays à cause des HANI",
-      "Personne déplacée à l'extérieur",
-      "Personne en déplacement international"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGTDqWZpbml0IFBESSBjb21tZSDCqyBwZXJzb25uZSBkw6lwbGFjw6llIGludGVybmUgwrsgZXQgbCdhc3NvY2llIGF1eCBkw6lwbGFjZW1lbnRzIGNhdXPDqXMgcGFyIGwnaW5zw6ljdXJpdMOpLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_101",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "L'attaque de Solhan a eu lieu dans la nuit du :",
-    "options": [
-      "2 au 3 juin 2021",
-      "3 au 4 juin 2021",
-      "4 au 5 juin 2021",
-      "5 au 6 juin 2021"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIHNpdHVlIGwnYXR0YXF1ZSBkZSBTb2xoYW4gZGFucyBsYSBudWl0IGR1IDQgYXUgNSBqdWluIDIwMjEu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_102",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "multiple",
-    "question": "Après quelle attaque le Burkina Faso a-t-il décrété un deuil national ?",
-    "options": [
-      "Solhan",
-      "Nouna",
-      "Seytenga",
-      "Garsi"
-    ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlcyBhdHRhcXVlcyBkZSBTb2xoYW4gZXQgZGUgU2V5dGVuZ2Egb250IHRvdXRlcyBkZXV4IGVudHJhw65uw6kgdW4gZGV1aWwgbmF0aW9uYWwuIERldXggcsOpcG9uc2VzIHNvbnQgZG9uYyBjb3JyZWN0ZXMgc2Vsb24gbGEgc291cmNlLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_103",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Parmi les éléments de sécurité suivants, lequel n'est pas armé ?",
-    "options": [
-      "VADS",
-      "Koglweogo",
-      "VDP",
-      "FDS"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlcyBWb2xvbnRhaXJlcyBBZGpvaW50cyBkZSBTw6ljdXJpdMOpIChWQURTKSBpbnRlcnZpZW5uZW50IHByaW5jaXBhbGVtZW50IGRhbnMgbGEgcsOpZ3VsYXRpb24gZGUgbGEgY2lyY3VsYXRpb24gZXQgbmUgc29udCBwYXMgYXJtw6lzLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_104",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Combien de retraités militaires ont été rappelés par l'État à la faveur de la crise sécuritaire ?",
-    "options": [
-      "327",
-      "372",
-      "273",
-      "310"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGxlIG5vbWJyZSBkZSAyNzMgcmV0cmFpdMOpcyBtaWxpdGFpcmVzIHJhcHBlbMOpcy4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_105",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est la date de l'opération antiterroriste HOUNE ?",
-    "options": [
-      "05/05/2021",
-      "07/05/2021",
-      "06/06/2021",
-      "2022"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGwnb3DDqXJhdGlvbiBIT1VORSBhIGTDqWJ1dMOpIGxlIDUgbWFpIDIwMjEu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_106",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est la date de mise en œuvre du Programme d'urgence du Sahel Burkina Faso (PUS-BF) ?",
-    "options": [
-      "Juillet 2000",
-      "Juillet 2010",
-      "Juillet 2014",
-      "Juillet 2017"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIFBVUy1CRiBhIMOpdMOpIG1pcyBlbiDFk3V2cmUgZW4ganVpbGxldCAyMDE3Lg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_107",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La force nouvellement créée pour la sécurité du Burkina Faso est :",
-    "options": [
-      "La sécurité au Faso",
-      "Burkina Sécurité",
-      "Forces Spéciales (FS)",
-      "Aucune de ces réponses"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGTDqXNpZ25lIGxlcyBGb3JjZXMgU3DDqWNpYWxlcyAoRlMpIGNvbW1lIGxhIGZvcmNlIG5vdXZlbGxlbWVudCBjcsOpw6llLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_108",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Où a eu lieu la toute première attaque terroriste au Burkina Faso ?",
-    "options": [
-      "Solhan",
-      "Ouagadougou",
-      "Nassoumbou",
-      "Sebba"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIHNpdHVlIGxhIHByZW1pw6hyZSBhdHRhcXVlIHRlcnJvcmlzdGUgw6AgT3VhZ2Fkb3Vnb3UsIGxvcnMgZGVzIGF0dGVudGF0cyBkdSAxNSBqYW52aWVyIDIwMTYgc3VyIGwnYXZlbnVlIEt3YW1lIE5rcnVtYWgu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_109",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Entre 1960 et 2022, le Burkina Faso, ex-Haute-Volta, a connu combien de régimes constitutionnels ?",
-    "options": [
-      "5",
-      "6",
-      "3",
-      "4"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGNvbXB0ZSBxdWF0cmUgcsOpZ2ltZXMgY29uc3RpdHV0aW9ubmVscyA6IGNldXggZGUgMTk2MCwgMTk3MCwgMTk3NyBldCAxOTkxLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_110",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Combien de partis politiques y avait-il sous la 3e République au Burkina Faso ?",
-    "options": [
-      "5 partis politiques",
-      "6 partis politiques",
-      "2 partis politiques",
-      "3 partis politiques"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIENvbnN0aXR1dGlvbiBkZSBsYSAzZSBSw6lwdWJsaXF1ZSBpbnN0YXVyYWl0IHVuIHRyaXBhcnRpc21lLCBzb2l0IHRyb2lzIHBhcnRpcyBwb2xpdGlxdWVzIHJlY29ubnVzLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_111",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La Constitution de la 3e République prévoyait que :",
-    "options": [
-      "Seuls les cinq premiers partis politiques les plus représentés à l'Assemblée nationale seront reconnus",
-      "Seuls les partis politiques ayant obtenu 10 % des suffrages seront reconnus",
-      "Seuls les trois premiers partis politiques les plus représentés à l'Assemblée nationale seront reconnus",
-      "Aucune bonne réponse"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIHNldWxzIGxlcyB0cm9pcyBwcmVtaWVycyBwYXJ0aXMgcG9saXRpcXVlcyBsZXMgcGx1cyByZXByw6lzZW50w6lzIMOgIGwnQXNzZW1ibMOpZSBuYXRpb25hbGUgw6l0YWllbnQgb2ZmaWNpZWxsZW1lbnQgcmVjb25udXMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_112",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel est le régime de la 1re République du Burkina Faso ?",
-    "options": [
-      "Régime théocratique",
-      "Régime constitutionnel",
-      "Parti unique",
-      "Démocratie multipartite"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIHNvdXMgTWF1cmljZSBZYW3DqW9nbywgbCdVRFYtUkRBIHMnZXN0IGltcG9zw6kgY29tbWUgcGFydGkgdW5pcXVlIGRlIGZhY3RvLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_113",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "À quelle République le Burkina Faso a-t-il adopté le régime parlementaire ?",
-    "options": [
-      "1re République",
-      "2e République",
-      "3e République",
-      "4e République"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIENvbnN0aXR1dGlvbiBkZSAxOTcwLCBjb3JyZXNwb25kYW50IMOgIGxhIDJlIFLDqXB1YmxpcXVlLCDDqXRhYmxpc3NhaXQgdW4gcsOpZ2ltZSDDoCBmb3J0ZSBjb2xvcmF0aW9uIHBhcmxlbWVudGFpcmUu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_114",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est la date du début de la 4e République au Burkina Faso ?",
-    "options": [
-      "Le 2 juin 1990",
-      "Le 20 juin 1991",
-      "Le 02 juin 1991",
-      "Le 02 juin 1990"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIDIganVpbiAxOTkxIG1hcnF1ZSBsZSBkw6lidXQgZGUgbGEgNGUgUsOpcHVibGlxdWUu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_115",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Que signifie ENAM ?",
-    "options": [
-      "École Nationale de l'administration des Magistrats",
-      "École Nationale d'Administration et de Magistrature",
-      "École Nationale de la Magistrature",
-      "École Nationale de l'Administration"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGNvbW1lIHNpZ25pZmljYXRpb24gZGUgbCdhY3JvbnltZSBFTkFNIDogw4ljb2xlIE5hdGlvbmFsZSBkJ0FkbWluaXN0cmF0aW9uIGV0IGRlIE1hZ2lzdHJhdHVyZS4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_116",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "multiple",
-    "question": "En quelle année l'ENAM a-t-elle célébré ses cinquante ans d'existence et qui était le Directeur général en son temps ?",
-    "options": [
-      "2009",
-      "2012",
-      "TALL Moctar",
-      "Benoit KAMBOU"
-    ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGEgc291cmNlIGRvbm5lIDIwMDkgY29tbWUgYW5uw6llIGR1IGNpbnF1YW50ZW5haXJlIGV0IFRBTEwgTW9jdGFyIGNvbW1lIERpcmVjdGV1ciBnw6luw6lyYWwuIERldXggw6lsw6ltZW50cyBkZSByw6lwb25zZSBzb250IGRvbmMgbsOpY2Vzc2FpcmVzLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_117",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est la structure qui s'occupe du tourisme au Burkina Faso ?",
-    "options": [
-      "ONTB",
-      "OTB",
-      "FASOTOUR",
-      "ORTB"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGwnT05UQiwgT2ZmaWNlIE5hdGlvbmFsIGR1IFRvdXJpc21lIEJ1cmtpbmFiw6gsIGVzdCBsYSBzdHJ1Y3R1cmUgY29uY2VybsOpZS4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_118",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Que signifie le sigle CIL ?",
-    "options": [
-      "Commission de l'Information et des Libertés",
-      "Commission de l'Informatique et des Libertés",
-      "Conseil Internationale pour des Libertés",
-      "Commission Internationale des Libertés"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGNvbW1lIHNpZ25pZmljYXRpb24gZGUgQ0lMIDogQ29tbWlzc2lvbiBkZSBsJ0luZm9ybWF0aXF1ZSBldCBkZXMgTGliZXJ0w6lzLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_119",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "ONASSIM signifie :",
-    "options": [
-      "Office National de Sécurité des Sites Miniers",
-      "Office National pour la Sécurisation des Sites Miniers",
-      "Office National de Sécurisation des Sites Miniers",
-      "Office National pour la Sécurité des Sites Miniers"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGNvbW1lIHNpZ25pZmljYXRpb24gZCdPTkFTU0lNIDogT2ZmaWNlIE5hdGlvbmFsIGRlIFPDqWN1cmlzYXRpb24gZGVzIFNpdGVzIE1pbmllcnMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_120",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle institution légifère les lois au Burkina Faso ?",
-    "options": [
-      "L'Assemblée Nationale",
-      "La Présidence du Faso",
-      "La Primature",
-      "L'Assemblée Législative de la Transition"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXUnZW4gcMOpcmlvZGUgZGUgdHJhbnNpdGlvbiwgbCdBc3NlbWJsw6llIEzDqWdpc2xhdGl2ZSBkZSBsYSBUcmFuc2l0aW9uIGV4ZXJjZSBsZSBwb3V2b2lyIGzDqWdpc2xhdGlmLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_121",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Combien de commissaires compte la Commission Électorale Nationale Indépendante (CENI) dans sa configuration actuelle ?",
-    "options": [
-      "15",
-      "10",
-      "9",
-      "20"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIENFTkkgY29tcHRlIDE1IG1lbWJyZXMu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_122",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quelle est la composition de la CENI en considérant les entités ?",
-    "options": [
-      "Bipartite",
-      "Tripartite",
-      "Équitable",
-      "Quatripartite"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIENFTkkgZXN0IHRyaXBhcnRpdGUsIGF2ZWMgZGVzIHJlcHLDqXNlbnRhbnRzIGRlIGxhIG1ham9yaXTDqSwgZGUgbCdvcHBvc2l0aW9uIGV0IGRlIGxhIHNvY2nDqXTDqSBjaXZpbGUu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_123",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le Nakambé est encore appelé :",
-    "options": [
-      "Volta noire",
-      "Volta rouge",
-      "Volta blanche",
-      "Aucune de ces réponses"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIE5ha2FtYsOpIMOpdGFpdCBhcHBlbMOpIMKrIFZvbHRhIEJsYW5jaGUgwrsgcGVuZGFudCBsYSBww6lyaW9kZSBjb2xvbmlhbGUu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_124",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "multiple",
-    "question": "Quels sont les cours d'eau qui ont un régime temporaire au Burkina Faso ?",
-    "options": [
-      "La Pendjari",
-      "Le Mouhoun",
-      "Le Nakambé",
-      "La Léraba"
-    ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGEgc291cmNlIGRvbm5lIGxhIFBlbmRqYXJpIGV0IGxlIE5ha2FtYsOpIGNvbW1lIGNvdXJzIGQnZWF1IMOgIHLDqWdpbWUgdGVtcG9yYWlyZS4gRGV1eCByw6lwb25zZXMgc29udCBkb25jIGNvcnJlY3RlcyBzZWxvbiBsYSBzb3VyY2Uu",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_125",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Au Burkina Faso, le fleuve Bougouriba est :",
-    "options": [
-      "Une embouchure",
-      "Un confluent",
-      "Un affluent",
-      "Un estuaire"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIEJvdWdvdXJpYmEgZXN0IHVuIGFmZmx1ZW50IG1hamV1ciBkdSBNb3Vob3VuLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_126",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La Bougouriba est un affluent de :",
-    "options": [
-      "Nakambé",
-      "Nazinon",
-      "Mouhoun",
-      "Comoé"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIEJvdWdvdXJpYmEgZXN0IHVuIGFmZmx1ZW50IGR1IE1vdWhvdW4u",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_127",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le fleuve Mouhoun prend sa source :",
-    "options": [
-      "Au Sourou",
-      "Dans la province du Mouhoun",
-      "Derrière les falaises de Banfora",
-      "Dans la province de la Bougouriba"
-    ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIE1vdWhvdW4gcHJlbmQgc2Egc291cmNlIGRlcnJpw6hyZSBsZXMgZmFsYWlzZXMgZGUgQmFuZm9yYSwgcHLDqHMgZCdPcm9kYXJhLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_128",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Le fleuve Pendjari se trouve à la frontière entre le Burkina Faso et :",
-    "options": [
-      "Mali",
-      "Côte d'Ivoire",
-      "Niger",
-      "Bénin"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxhIFBlbmRqYXJpIG1hcnF1ZSB1bmUgcGFydGllIGRlIGxhIGZyb250acOocmUgbmF0dXJlbGxlIGVudHJlIGxlIEJ1cmtpbmEgRmFzbyBldCBsZSBCw6luaW4u",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_129",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Parmi les propositions suivantes, laquelle contribue à une bonne gestion des ressources en eau au Burkina Faso ?",
-    "options": [
-      "La lutte contre l'utilisation des engrais organiques dans l'agriculture",
-      "L'interdiction de l'utilisation des sachets plastiques biodégradables",
-      "La vente et l'utilisation des sachets plastiques non biodégradables",
-      "Le respect des distances de servitude le long des berges des cours d'eau"
-    ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIHJlc3BlY3QgZGVzIGRpc3RhbmNlcyBkZSBzZXJ2aXR1ZGUgbGUgbG9uZyBkZXMgYmVyZ2VzIGNvbnRyaWJ1ZSDDoCBsaW1pdGVyIGwnw6lyb3Npb24gZXQgbCdlbnNhYmxlbWVudC4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_130",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Une partie du fleuve Mouhoun est la frontière entre le Burkina Faso et le :",
-    "options": [
-      "Ghana",
-      "Togo",
-      "Bénin",
-      "Aucune bonne réponse"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXUndW5lIHBhcnRpZSBkdSBNb3Vob3VuIGZvcm1lIHVuZSBmcm9udGnDqHJlIG5hdHVyZWxsZSBhdmVjIGxlIEdoYW5hLg==",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_131",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "La plus grande retenue d'eau naturelle est :",
-    "options": [
-      "Lac Tingrela",
-      "Lac Bam",
-      "Lac Dem",
-      "Lac Sian"
-    ],
-    "reponses_correctes": "WzFd",
-    "explication": "TGEgc291cmNlIGluZGlxdWUgcXVlIGxlIGxhYyBCYW0gZXN0IGxhIHBsdXMgZ3JhbmRlIHJldGVudWUgZCdlYXUgbmF0dXJlbGxlIGR1IEJ1cmtpbmEgRmFzby4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
-    "id": "FR_2026_132",
-    "matiere": "burkinafaso",
-    "categorie": "culture_generale",
-    "type": "single",
-    "question": "Quel est l'intrus parmi les lacs existant au Burkina Faso ?",
-    "options": [
-      "Lac Kou",
-      "Lac Dem",
-      "Lac de Kompienga",
-      "Lac Bagré"
-    ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGEgc291cmNlIGTDqXNpZ25lIGxlIGxhYyBLb3UgY29tbWUgbCdpbnRydXMgcGFybWkgbGVzIHByb3Bvc2l0aW9ucy4=",
-    "version": 1,
-    "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
-  },
-  {
     "id": "FR_2026_133",
     "matiere": "burkinafaso",
     "categorie": "culture_generale",
@@ -1491,25 +15,25 @@
     "explication": "TGEgcsOpcG9uc2UgaW5kaXF1w6llIGRhbnMgbGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgZXN0IGxlIDcgYW/Du3QgMjAyMy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_134",
     "matiere": "burkinafaso",
     "categorie": "culture_generale",
     "type": "single",
-    "question": "Donner la date de dénonciation de l'accord d'assistance militaire technique entre le Burkina Faso et la France, signé le 24 avril 1961, avec effet quatre mois.",
+    "question": "Donner la date de dénonciation de l'accord d'assistance militaire technique entre le Burkina Faso et la France, signé le 24 avril 1961.",
     "options": [
       "7 août 2023",
       "5 août 2023",
       "7 janvier 2023",
-      "18 janvier 2023"
+      "28 février 2023"
     ],
     "reponses_correctes": "WzNd",
-    "explication": "TGEgcsOpcG9uc2UgaW5kaXF1w6llIGRhbnMgbGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgZXN0IGxlIDE4IGphbnZpZXIgMjAyMy4=",
-    "version": 1,
+    "explication": "TGEgZMOpbm9uY2lhdGlvbiBhIMOpdMOpIG5vdGlmacOpZSBsZSAyOCBmw6l2cmllciAyMDIzLiBMYSBkw6lub25jaWF0aW9uIGEgZW5zdWl0ZSBwcmlzIGVmZmV0IGNvbmZvcm3DqW1lbnQgYXV4IG1vZGFsaXTDqXMgcHLDqXZ1ZXMgcG91ciBjZXQgYWNjb3JkLg==",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_135",
@@ -1527,13 +51,13 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAzMCBhb8O7dCAyMDIzIGNvbW1lIGRhdGUgZCdhZG9wdGlvbiBkZSBjZXR0ZSBpbml0aWF0aXZlLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_136",
     "matiere": "burkinafaso",
     "categorie": "culture_generale",
-    "type": "multiple",
+    "type": "single",
     "question": "Le rapport adopté le 30 août relatif à l'indemnisation des travailleurs des ex-garderies populaires concerne combien de personnes et pour quel montant d'indemnisation ?",
     "options": [
       "548 personnes et 1 660 084 234 FCFA",
@@ -1541,11 +65,11 @@
       "548 personnes et 660 084 234 FCFA",
       "485 personnes et 1 660 084 234 FCFA"
     ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGUgY29ycmlnw6kgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIEEgZXQgQy4gTGEgcXVlc3Rpb24gYXNzb2NpZSBkb25jIGRldXggaW5mb3JtYXRpb25zIDogbGUgbm9tYnJlIGRlIHBlcnNvbm5lcyBldCBsZSBtb250YW50IGQnaW5kZW1uaXNhdGlvbi4gTGEgc3RydWN0dXJlIGR1IGRvY3VtZW50IHJlbmQgY2V0dGUgcXVlc3Rpb24gw6AgcsOpcG9uc2VzIG11bHRpcGxlcy4=",
-    "version": 1,
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgcmFwcG9ydCBjb25jZXJuZSA1NDggdHJhdmFpbGxldXJzIGRlcyBleC1nYXJkZXJpZXMgcG9wdWxhaXJlcywgcG91ciB1bmUgaW5jaWRlbmNlIGZpbmFuY2nDqHJlIGRlIDEgNjYwIDA4NCAyMzQgRkNGQS4=",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_137",
@@ -1563,7 +87,7 @@
     "explication": "TGUgZG9jdW1lbnQgZMOpc2lnbmUgY2UgcGxhbiBzb3VzIGxlIG5vbSBkJ8KrIE9mZmVuc2l2ZSBhZ3JvcGFzdG9yYWxlIGV0IGhhbGlldXRpcXVlIDIwMjMtMjAyNSDCuy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_138",
@@ -1581,7 +105,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyMCBqdWluIDIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_139",
@@ -1599,7 +123,7 @@
     "explication": "TGUgY29ycmlnw6kgaW5kaXF1ZSBxdWUgbGUgdmFjY2luIGFwcHJvdXbDqSBlc3QgbGUgUjIxL01hdHJpeC1NLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_140",
@@ -1617,7 +141,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgZGV1eCBwYXlzIGFmcmljYWlucyBhdmFpZW50IGF1dG9yaXPDqSBsZSB2YWNjaW4gYXZhbnQgbGUgQnVya2luYSBGYXNvLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_141",
@@ -1635,7 +159,7 @@
     "explication": "TGUgY29ycmlnw6kgaW5kaXF1ZSB1biBzYXV0IGRlIDE3LDY0IG0u",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_142",
@@ -1653,7 +177,7 @@
     "explication": "TGUgY29ycmlnw6kgaW5kaXF1ZSB1bmUgc3VzcGVuc2lvbiBkdSAxMCBhb8O7dCBhdSAxMCBzZXB0ZW1icmUgMjAyMy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_143",
@@ -1671,7 +195,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSA0IHNlcHRlbWJyZSAyMDIzLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_144",
@@ -1689,25 +213,25 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgZG9ubmUgwqsgc2F1dmVyIMK7IGNvbW1lIHNpZ25pZmljYXRpb24gZGUgQ2hhZGltYS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_145",
     "matiere": "burkinafaso",
     "categorie": "culture_generale",
     "type": "single",
-    "question": "Francis Kéré a remporté quel prix Nobel en 2023 ?",
+    "question": "Quel grand prix d’architecture Francis Kéré a-t-il remporté en 2022 ?",
     "options": [
       "Prix Nobel de littérature",
       "Prix Nobel des lettres",
-      "Prix Nobel des Arts",
-      "Prix Nobel de l'Environnement"
+      "Prix Pritzker d’architecture (2022)",
+      "Prix Nobel de l’Environnement"
     ],
     "reponses_correctes": "WzJd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBQcml4IE5vYmVsIGRlcyBBcnRzIMK7Lg==",
-    "version": 1,
+    "explication": "RnJhbmNpcyBLw6lyw6kgYSByZcOndSBsZSBQcml4IFByaXR6a2VyIGTigJlhcmNoaXRlY3R1cmUgZW4gMjAyMi4=",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_146",
@@ -1725,7 +249,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxNiBzZXB0ZW1icmUgMjAyMy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_147",
@@ -1743,7 +267,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxNiBzZXB0ZW1icmUgMjAyMy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_148",
@@ -1761,7 +285,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBodWl0IG3DqWRhaWxsZXMgZCdvci4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_149",
@@ -1779,7 +303,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyNSBzZXB0ZW1icmUgMjAyMy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_150",
@@ -1797,7 +321,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgZMOpc2lnbmUgQmFzc29sbWEgQkFaSUUgY29tbWUgcmVwcsOpc2VudGFudCBkdSBwcsOpc2lkZW50IGR1IEZhc28u",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_151",
@@ -1815,7 +339,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyOSBqdWluIDIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_152",
@@ -1833,25 +357,25 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAzMCBqYW52aWVyIDIwMjQu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_153",
     "matiere": "burkinafaso",
     "categorie": "culture_generale",
     "type": "single",
-    "question": "Donner la date d'homologation du vaccin R21 Matrix-M contre le paludisme par l'OMS.",
+    "question": "Donner la date de recommandation du vaccin R21/Matrix-M contre le paludisme par l’OMS.",
     "options": [
       "20 juin 2023",
       "3 juillet 2023",
       "20 octobre 2023",
-      "3 octobre 2023"
+      "2 octobre 2023"
     ],
     "reponses_correctes": "WzNd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAzIG9jdG9icmUgMjAyMy4=",
-    "version": 1,
+    "explication": "TOKAmU9NUyBhIHJlY29tbWFuZMOpIGxlIHZhY2NpbiBSMjEvTWF0cml4LU0gbGUgMiBvY3RvYnJlIDIwMjMu",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_154",
@@ -1869,7 +393,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBQciBIYWxpZG91IFRJTlRPLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_155",
@@ -1887,7 +411,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBOYW5vcm8u",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_156",
@@ -1905,7 +429,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBLb3VhZ3JpIE5hdGFtYS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_157",
@@ -1923,7 +447,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBww6lyaW9kZSBkdSAyNyBhdnJpbCBhdSA0IG1haSAyMDI0Lg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_158",
@@ -1941,7 +465,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBDaHJpc3RpYW5lIFNhbm91L0NvdWxpYmFseS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_159",
@@ -1959,7 +483,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBww6lyaW9kZSBkdSAxNCBhdSAyMiBvY3RvYnJlIDIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_160",
@@ -1977,7 +501,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSB1biBwb2lkcyBkZSAyMzAga2cu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_161",
@@ -1995,7 +519,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyMyBub3ZlbWJyZSAyMDIzIMOgIE91YWdhZG91Z291Lg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_162",
@@ -2013,7 +537,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBCdXJraW5hIEZhc28gY29tbWUgcGF5cyBpbnZpdMOpIGQnaG9ubmV1ci4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_163",
@@ -2031,7 +555,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmUFQRUMgc2lnbmlmaWUgQWdlbmNlIHBvdXIgbGEgcHJvbW90aW9uIGRlIGzigJllbnRyZXByZW5hcmlhdCBjb21tdW5hdXRhaXJlIGV0IHF1ZSBzb24gZGlyZWN0ZXVyIGfDqW7DqXJhbCBlc3QgS2FyaW0gVFJBT1JFLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_164",
@@ -2049,7 +573,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgQnVya2luYSBGYXNvIGNvbXB0ZSB0cm9pcyBjb3VycyBk4oCZYXBwZWwu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_165",
@@ -2067,7 +591,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgS291ZG91Z291IG7igJlhYnJpdGUgcGFzIGRlIGNvdXJzIGTigJlhcHBlbC4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_166",
@@ -2085,7 +609,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmW9ww6lyYXRpb24gQmF5aXJpIGEgZXUgbGlldSBlbiAyMDAyLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_167",
@@ -2103,7 +627,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgRVBFIHNpZ25pZmllIEV0YWJsaXNzZW1lbnQgcHVibGljIGRlIGzigJlFdGF0Lg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_168",
@@ -2121,7 +645,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGVzIGTDtG1lcyBzZSBzaXR1ZW50IMOgIEZhYmVkb3Vnb3Uu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_169",
@@ -2139,7 +663,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdeKAmXVuZSBjcnlwdG9tb25uYWllIGVzdCB1bmUgbW9ubmFpZSBudW3DqXJpcXVlLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_170",
@@ -2157,7 +681,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgQkNFQU8gYSDDqXTDqSBjcsOpw6llIGVuIDE5NjIu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_171",
@@ -2175,7 +699,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgbWFuZGF0IGRlcyBtZW1icmVzIGR1IENvbnNlaWwgY29uc3RpdHV0aW9ubmVsIGVzdCBkZSBuZXVmIGFucy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_172",
@@ -2189,11 +713,11 @@
       "Le règlement prime sur la loi",
       "La circulaire prime sur la loi"
     ],
-    "reponses_correctes": "WzAsIDJd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBjb21tZSBib25uZXMgcsOpcG9uc2VzIMKrIExhIGxvaSBwcmltZSBzdXIgbGEgY2lyY3VsYWlyZSDCuyBldCDCqyBMZSByw6hnbGVtZW50IHByaW1lIHN1ciBsYSBsb2kgwrsu",
-    "version": 1,
+    "reponses_correctes": "WzAsIDFd",
+    "explication": "RGFucyBsYSBoacOpcmFyY2hpZSBkZXMgbm9ybWVzLCBsYSBsb2kgcHJpbWUgc3VyIGxhIGNpcmN1bGFpcmUgZXQgc3VyIGxlIHLDqGdsZW1lbnQu",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_173",
@@ -2211,7 +735,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmWFjdGUgZGUgbWFyaWFnZSBlc3QgdW4gYWN0ZSBk4oCZw6l0YXQgY2l2aWwu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_174",
@@ -2229,7 +753,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgcsOpY29uY2lsaWF0aW9uIG7DqWNlc3NpdGUgbGEgdsOpcml0w6ksIGxhIGp1c3RpY2UgZXQgbGUgcGFyZG9uLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_175",
@@ -2247,7 +771,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmWFuY2llbiBub20gZGUgRmFkYSBlc3QgTnVuZ3Uu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_176",
@@ -2265,7 +789,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgZGV1eGnDqG1lIHBhdHJpbW9pbmUgaW5zY3JpdCBzdXIgbGEgbGlzdGUgZGUgbOKAmVVORVNDTyBlc3QgbGUgY29tcGxleGUgVy1Bcmx5LVBlbmRqYXJpLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_177",
@@ -2283,7 +807,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgc3RhZGUgZGUgQm9ibyBhIMOpdMOpIGNyw6nDqSBsZSA3IGphbnZpZXIgMTk1Mi4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_178",
@@ -2301,7 +825,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmU9UQU4gZXN0IHVuZSBvcmdhbmlzYXRpb24gbWlsaXRhaXJlLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_179",
@@ -2319,7 +843,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgZMOpY3JldCBwb3J0YW50IGNyw6lhdGlvbiBkZXMgR1VNSSBhIMOpdMOpIHByaXMgbGUgMjUgb2N0b2JyZSAyMDIzLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_180",
@@ -2337,7 +861,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgR1VNSSBzaWduaWZpZSBHcm91cGVtZW50IGTigJl1bml0w6lzIG1vYmlsZXMgZOKAmWludGVydmVudGlvbi4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_181",
@@ -2355,7 +879,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgQklSIHNpZ25pZmllIEJhdGFpbGxvbiBk4oCZaW50ZXJ2ZW50aW9uIHJhcGlkZS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_182",
@@ -2373,7 +897,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgRm9uZHMgZGUgc291dGllbiBwYXRyaW90aXF1ZSBhIMOpdMOpIGNyw6nDqSBsZSAxMSBqYW52aWVyIDIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_183",
@@ -2391,7 +915,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgcsOpZHVjdGlvbiBkdSB0cmFpbiBkZSB2aWUgZGUgbOKAmUV0YXQgYSBwZXJtaXMgZGUgbW9iaWxpc2VyIDIzIDQxMSAwNDEgMTY5IEZDRkEgZW4gMjAyMy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_184",
@@ -2409,14 +933,14 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmWFzc3VyYW5jZSBhZ3JpY29sZSBjb3V2cmUgdW5lIHN1cGVyZmljaWUgZGUgMTcgNTAwIGhlY3RhcmVzLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_185",
     "matiere": "burkinafaso",
     "categorie": "culture_generale",
     "type": "single",
-    "question": "Donner la date de suspension du BF à l’Agora.",
+    "question": "Donner la date de suspension du BF à l’AGOA.",
     "options": [
       "1er janvier 2023",
       "24 janvier 2022",
@@ -2424,10 +948,10 @@
       "15 octobre 1987"
     ],
     "reponses_correctes": "WzBd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgc3VzcGVuc2lvbiBkdSBCdXJraW5hIEZhc28gw6AgbOKAmUFnb3JhIGRhdGUgZHUgMWVyIGphbnZpZXIgMjAyMy4=",
-    "version": 1,
+    "explication": "TGUgQnVya2luYSBGYXNvIGEgw6l0w6kgc3VzcGVuZHUgZGUgbOKAmUFHT0Egw6AgY29tcHRlciBkdSAxZXIgamFudmllciAyMDIzLg==",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_186",
@@ -2445,7 +969,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgc3RhdHVldHRlIGRlIE1hbWlvIGEgw6l0w6kgZMOpcm9iw6llIGVuIDE5OTEu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_187",
@@ -2463,7 +987,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgcHJlbWllciBkaXNjb3VycyBkdSBwcsOpc2lkZW50IGRlIGxhIHRyYW5zaXRpb24gSWJyYWhpbSBUcmFvcsOpIGEgZXUgbGlldSBsZSAyMSBvY3RvYnJlIDIwMjIu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_188",
@@ -2481,7 +1005,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgbW9udGFudCB2b3TDqSBwb3VyIGzigJlhY2hhdCBkZXMgZHJvbmVzIG1pbGl0YWlyZXMgZW4gMjAyMyBlc3QgZGUgMjUyIG1pbGxpYXJkcyBkZSBmcmFuY3MgQ0ZBLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_189",
@@ -2499,7 +1023,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgcG91cmNlbnRhZ2UgcHLDqXZ1IHBhciBsYSBsb2kgc3VyIGxlIHF1b3RhIGdlbnJlIGVzdCBkZSAzMCUu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_190",
@@ -2517,7 +1041,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgc3RhdHVldHRlIGRlIE1hbWlvIGEgw6l0w6kgcmVzdGl0dcOpZSBhdSBCdXJraW5hIGVuIDIwMDEu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_191",
@@ -2535,7 +1059,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGUgQ0VTIGEgw6l0w6kgY3LDqcOpIGVuIDE5NTku",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_192",
@@ -2553,7 +1077,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIMKrIDE5MCAwMDAgdG9ubmVzIMK7IGV0IMKrIDExIDAwMCBoZWN0YXJlcyDCuy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_193",
@@ -2571,7 +1095,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBjb21tZSBjb25zw6lxdWVuY2VzIGzigJlhdWdtZW50YXRpb24gZHUgdMOpbMOpdHJhdmFpbCBldCBs4oCZaXNvbGVtZW50IGRlcyB0cmF2YWlsbGV1cnMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_194",
@@ -2589,7 +1113,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSB1bmUgc29tbWUgZGUgMTAgbWlsbGlhcmRzIGRlIGZyYW5jcyBDRkEu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_195",
@@ -2607,7 +1131,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgU0lUQVJBSUwgYXBwYXJ0aWVudCDDoCBBZnJpY2EgR2xvYmFsIExvZ2lzdGljcy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_196",
@@ -2625,7 +1149,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBjb21tZSByw6lwb25zZXMgbGUgTcOpZGlhdGV1ciBkdSBGYXNvIGV0IGxlIFByZW1pZXIgbWluaXN0cmUu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_197",
@@ -2643,7 +1167,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBs4oCZYW5uw6llIDE5NzIu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_198",
@@ -2661,7 +1185,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbGEgcHJlbWnDqHJlIMOpZGl0aW9uIGR1IFNJQU8gYSBldSBsaWV1IGVuIDE5ODgu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_199",
@@ -2679,7 +1203,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdWUgbOKAmUVOQU0gYSBjw6lsw6licsOpIHNvbiA2NGUgYW5uaXZlcnNhaXJlIGVuIDIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_200",
@@ -2697,7 +1221,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBxdeKAmWlsIHPigJlhZ2lzc2FpdCBkdSBEaXNjb3VycyBzdXIgbGEgc2l0dWF0aW9uIGRlIGxhIG5hdGlvbi4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_201",
@@ -2715,7 +1239,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBJYnJhaGltIEJlbiBIYXJvdW5hIFpBUkFOSS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_202",
@@ -2733,7 +1257,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBNYXVyaWNlIEtPTkFURS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_203",
@@ -2751,7 +1275,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBBaW3DqSBXZW5kcGFuZ2EgTk9OR0tPVU5JLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_204",
@@ -2769,7 +1293,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBBYmRvdWxheWUgQkFTU0lOR0Eu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_205",
@@ -2787,7 +1311,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBGbGFuZGlvbiBJZHJpc3NhIFNPVVJBQklFLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_206",
@@ -2796,16 +1320,16 @@
     "type": "single",
     "question": "Nombre de communes ayant participé aux élections municipales de 1995 ?",
     "options": [
-      "30",
+      "33",
       "45",
       "49",
       "351"
     ],
     "reponses_correctes": "WzBd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAzMCBjb21tdW5lcy4=",
-    "version": 1,
+    "explication": "TGVzIHByZW1pw6hyZXMgw6lsZWN0aW9ucyBtdW5pY2lwYWxlcyBkZSAxOTk1IG9udCDDqXTDqSBvcmdhbmlzw6llcyBkYW5zIDMzIGNvbW11bmVzIGRlIHBsZWluIGV4ZXJjaWNlLg==",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_207",
@@ -2823,7 +1347,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSA0OSBjb21tdW5lcyB1cmJhaW5lcy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_208",
@@ -2841,7 +1365,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxNyBub3ZlbWJyZSAyMDIzLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_209",
@@ -2859,7 +1383,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBCcmFoaW1hIFRSQU9SRS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_210",
@@ -2877,7 +1401,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBTbWFydHku",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_211",
@@ -2895,7 +1419,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBHw6luw6lyYWwgS291c3NvdW0gQ09VTElCQUxZLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_212",
@@ -2913,7 +1437,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSA3IGTDqWNlbWJyZSAyMDIzIGV0IElkcmlzc2EgTkFTU0Eu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_213",
@@ -2931,7 +1455,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBHw6luw6lyYWwgUGluZ3Jlbm9tYSBaQUdSRS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_214",
@@ -2949,7 +1473,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBQbGF0ZWF1IENlbnRyYWwu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_215",
@@ -2967,7 +1491,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBCQSAxMTEu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_216",
@@ -2985,7 +1509,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBCQSAxMzQu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_217",
@@ -3003,7 +1527,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBEacOpYsOpZG8gRnJhbmNpcyBLw6lyw6ku",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_218",
@@ -3021,7 +1545,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBQb3VyIGxhIGN1bHR1cmUsIGplIHBsYWlkZSDCuy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_219",
@@ -3039,7 +1563,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAzIGTDqWNlbWJyZSAyMDIzLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_220",
@@ -3057,7 +1581,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBNb2N0YXIgU2V5ZG91IEdhbmFtYS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_221",
@@ -3075,7 +1599,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBmcm9udGnDqHJlIEJ1cmtpbmEgRmFzby1NYWxpLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_222",
@@ -3089,11 +1613,11 @@
       "Des livres bleus",
       "Des codes bleus"
     ],
-    "reponses_correctes": "WzBd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBEZXMgbGl2cmVzIGJsYW5jcyDCuy4=",
-    "version": 1,
+    "reponses_correctes": "WzNd",
+    "explication": "TGVzIHRyYWl0w6lzIGV0IGFjdGVzIHVuaWZvcm1lcyBkZSBs4oCZT0hBREEgc29udCBjb3VyYW1tZW50IGTDqXNpZ27DqXMgY29tbWUgZGVzIMKrIGNvZGVzIGJsZXVzIMK7Lg==",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_223",
@@ -3111,7 +1635,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxZXIgb2N0b2JyZS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_224",
@@ -3129,7 +1653,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIEEgZXQgQy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_225",
@@ -3147,7 +1671,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBTw6lrb3UgT3XDqWRyYW9nby4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_226",
@@ -3165,7 +1689,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAxNTAgbWlsbGlvbnMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_227",
@@ -3183,7 +1707,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAzIEJJUi4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_228",
@@ -3201,7 +1725,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBGYWRhIGV0IEJvYm8tRGlvdWxhc3NvLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_229",
@@ -3219,7 +1743,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBDQVJGTywgbGEgQ05TUyBldCBsYSBDTkFNVS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_230",
@@ -3237,7 +1761,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxNiBqdWluLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_231",
@@ -3255,7 +1779,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSB0cmFuY2hlIGTigJnDomdlIGNvbXByaXNlIGVudHJlIDYwIGV0IDc5IGFucy4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_232",
@@ -3273,7 +1797,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSA0IGF4ZXMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_233",
@@ -3291,7 +1815,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBKb3NlcGggS2ktWmVyYm8u",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_234",
@@ -3309,7 +1833,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBMZXMgZGV1eCByw6lwb25zZXMgwrsu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_235",
@@ -3323,11 +1847,11 @@
       "2 h",
       "30 min"
     ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAzMCBtaW51dGVzLg==",
-    "version": 1,
+    "reponses_correctes": "WzBd",
+    "explication": "TGEgZHVyw6llIHRvdGFsZSBqb3VybmFsacOocmUgYWNjb3Jkw6llIHBvdXIgbOKAmWFsbGFpdGVtZW50IGF1IG5pdmVhdSBkZSBsYSBGb25jdGlvbiBwdWJsaXF1ZSBlc3QgZOKAmXVuZSBoZXVyZS4=",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_236",
@@ -3345,7 +1869,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAxOTI2Lg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_237",
@@ -3359,11 +1883,11 @@
       "60 ans",
       "63 ans"
     ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSA2MCBhbnMu",
-    "version": 1,
+    "reponses_correctes": "WzBd",
+    "explication": "TOKAmVVuaW9uIGFmcmljYWluZSBhIMOpdMOpIG9mZmljaWVsbGVtZW50IGxhbmPDqWUgZW4gMjAwMiA7IGVsbGUgY29tcHRhaXQgZG9uYyAyMSBhbnMgZW4gMjAyMy4=",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_238",
@@ -3381,7 +1905,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgUnVpbmVzIGRlIExvcm9ww6luaS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_239",
@@ -3399,7 +1923,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSByw6lnaW9uIGR1IFN1ZC1PdWVzdC4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_240",
@@ -3417,7 +1941,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBww6lyaW9kZSBkdSAyNSBvY3RvYnJlIGF1IDMgbm92ZW1icmUu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_241",
@@ -3435,7 +1959,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIEEgZXQgRC4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_242",
@@ -3453,7 +1977,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSAxN2Ugw6lkaXRpb24u",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_243",
@@ -3471,7 +1995,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSA5LzEyLzIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_244",
@@ -3489,7 +2013,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBBcG9sbGluYWlyZSBLWUVMRU0gZGUgVGFtYmVsYS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_245",
@@ -3507,7 +2031,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBHYW91YS4=",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_246",
@@ -3525,7 +2049,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBEcmlzc2EgTWFsbyBUcmFvcsOpLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_247",
@@ -3543,7 +2067,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBCb3Vha8OpLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_248",
@@ -3561,7 +2085,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBBcnRpc2FuYXQgYWZyaWNhaW4sIGVudHJlcHJlbmV1cmlhdCBkZXMgamV1bmVzIGV0IGF1dG9ub21pc2F0aW9uIMK7Lg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_249",
@@ -3579,7 +2103,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxZXIgZMOpY2VtYnJlIDIwMjMu",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_250",
@@ -3593,11 +2117,11 @@
       "2011",
       "2012"
     ],
-    "reponses_correctes": "WzJd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAyMDExLg==",
-    "version": 1,
+    "reponses_correctes": "WzNd",
+    "explication": "TGUgYmFsYWZvbiBkZXMgY29tbXVuYXV0w6lzIFPDqW5vdWZvIGR1IE1hbGksIGR1IEJ1cmtpbmEgRmFzbyBldCBkZSBDw7R0ZSBk4oCZSXZvaXJlIGEgw6l0w6kgaW5zY3JpdCBhdSBwYXRyaW1vaW5lIGN1bHR1cmVsIGltbWF0w6lyaWVsIGVuIDIwMTIu",
+    "version": 2,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_251",
@@ -3615,7 +2139,7 @@
     "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBKZWFuIEx1YyBCQU1CQVJBLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
   },
   {
     "id": "FR_2026_252",
@@ -3626,13 +2150,553 @@
     "options": [
       "25 mai 2023",
       "23 mai 2023",
-      "18 novembre 2023",
-      "20 novembre 2023"
+      "20 novembre 2023",
+      "18 novembre 2023"
     ],
-    "reponses_correctes": "WzNd",
-    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyMCBub3ZlbWJyZSAyMDIzLg==",
+    "reponses_correctes": "WzJd",
+    "explication": "TGEgcGxhdGVmb3JtZSBlVGltYnJlIGEgw6l0w6kgb2ZmaWNpZWxsZW1lbnQgbGFuY8OpZSBsZSAyMCBub3ZlbWJyZSAyMDIzLg==",
+    "version": 2,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_253",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quand date l’institution des volontaires adjoints de sécurité VADS ?",
+    "options": [
+      "2013",
+      "2014",
+      "2015",
+      "2019"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAyMDEzLg==",
     "version": 1,
     "date_creation": "2026-09-19",
-    "date_derniere_modification": "2026-09-19"
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_254",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Qui était le président du Conseil constitutionnel en novembre 2015 ?",
+    "options": [
+      "Albert Dé Millogo",
+      "Kassoum Kambou",
+      "Boureima Cissé",
+      "Idrissa Traoré"
+    ],
+    "reponses_correctes": "WzFd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBLYXNzb3VtIEthbWJvdS4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_255",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Le nom de quelle province est dérivé de colline ?",
+    "options": [
+      "Sissili",
+      "Zandoma",
+      "Tapoa",
+      "Sanguié"
+    ],
+    "reponses_correctes": "WzNd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBwcm92aW5jZSBkdSBTYW5ndWnDqS4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_256",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Trouvez l’intrus parmi les communes suivantes.",
+    "options": [
+      "Garango",
+      "Pouytenga",
+      "Koupela",
+      "Bittou"
+    ],
+    "reponses_correctes": "WzJd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBLb3VwZWxhLg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_257",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Le SIAO 2020 a été annulé pour quel motif ?",
+    "options": [
+      "La pandémie du coronavirus",
+      "La crise sécuritaire",
+      "Les sanctions de la CEDEAO",
+      "Insuffisance de budget"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBwYW5kw6ltaWUgZHUgY29yb25hdmlydXMu",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_258",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Le Tour Cycliste du Faso édition 2022 a été annulé pour quel motif ?",
+    "options": [
+      "La pandémie du coronavirus",
+      "La crise sécuritaire",
+      "Les sanctions de la CEDEAO",
+      "Insuffisance de budget"
+    ],
+    "reponses_correctes": "WzFd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBjcmlzZSBzw6ljdXJpdGFpcmUu",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_259",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "La province de Houet a combien de communes rurales ?",
+    "options": [
+      "13",
+      "16",
+      "15",
+      "12"
+    ],
+    "reponses_correctes": "WzNd",
+    "explication": "TGEgcHJvdmluY2UgZHUgSG91ZXQgY29tcHRlIDEyIGNvbW11bmVzIHJ1cmFsZXMu",
+    "version": 2,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_260",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Donner la date du début de la conquête territoriale de l’actuel Burkina Faso par la France.",
+    "options": [
+      "1896",
+      "1895",
+      "1919",
+      "1897"
+    ],
+    "reponses_correctes": "WzFd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAxODk1Lg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_261",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Donner la date de lancement de la RTB télé autrefois Volta Vision.",
+    "options": [
+      "5/8/1960",
+      "5/8/1963",
+      "5/8/1959",
+      "5/8/1964"
+    ],
+    "reponses_correctes": "WzFd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSA1LzgvMTk2My4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_262",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Donner la date de la dernière modification de la loi n°036-2015/CNT portant code minier du BF.",
+    "options": [
+      "25/07/2022",
+      "25/07/2023",
+      "2/06/2023",
+      "7/12/2022"
+    ],
+    "reponses_correctes": "WzFd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyNS8wNy8yMDIzLg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_263",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "multiple",
+    "question": "Citer les provinces qui tirent leurs noms de colline/montagne.",
+    "options": [
+      "Kouritenga",
+      "Sanguié",
+      "Nahouri",
+      "Ioba"
+    ],
+    "reponses_correctes": "WzEsIDIsIDNd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIEIsIEMgZXQgRC4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_264",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Kaya est quelle nième région militaire ?",
+    "options": [
+      "1ère région militaire",
+      "2e région militaire",
+      "3e région militaire",
+      "4e région militaire"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSAxw6hyZSByw6lnaW9uIG1pbGl0YWlyZS4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_265",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Dans quelle région a lieu l’opération « Tchefari-Lii » qui signifie Miel des guerriers ?",
+    "options": [
+      "Boucle du Mouhoun",
+      "Sahel",
+      "Hauts-Bassins",
+      "Cascades"
+    ],
+    "reponses_correctes": "WzNd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSByw6lnaW9uIGRlcyBDYXNjYWRlcy4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_266",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quelle est la date d’adoption du référentiel de la décentralisation ?",
+    "options": [
+      "2018",
+      "2004",
+      "2001",
+      "2017"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSAyMDE4Lg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_267",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "multiple",
+    "question": "Quels sont les référentiels dédiés uniquement à la décentralisation ?",
+    "options": [
+      "Vision prospective de la Décentralisation",
+      "Politique nationale de la Décentralisation",
+      "Stratégie décennale de la Décentralisation",
+      "Plan d’Actions pour la Stabilisation et le Développement"
+    ],
+    "reponses_correctes": "WzAsIDEsIDJd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIEEsIEIgZXQgQy4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_268",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quelle période couvre la Vision prospective de la Décentralisation ?",
+    "options": [
+      "Horizon 2025",
+      "Horizon 2030",
+      "Horizon 2035",
+      "Horizon 2040"
+    ],
+    "reponses_correctes": "WzNd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBs4oCZaG9yaXpvbiAyMDQwLg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_269",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quelle est l’autorité chargée de la reconnaissance des associations religieuses ?",
+    "options": [
+      "MATDS",
+      "FAIB",
+      "CERFI",
+      "Conseil des communautés"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBNQVREUy4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_270",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quelle est la date d’inauguration du stade du 4 août ?",
+    "options": [
+      "18 juillet 1984",
+      "5 août 1984",
+      "15 octobre 1985",
+      "2 octobre 1987"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAxOCBqdWlsbGV0IDE5ODQu",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_271",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quelle autorité a décoré Hugues Fabrice Zango de la médaille d’Officier de l’ordre national de l’Étalon ?",
+    "options": [
+      "Capitaine Ibrahim TRAORE",
+      "Apollinaire Joachimson KYELEM",
+      "Pingrenoma ZAGRE",
+      "Anderson Médah"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBDYXBpdGFpbmUgSWJyYWhpbSBUUkFPUkUu",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_272",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "multiple",
+    "question": "Quels sont les registres tenus par les services d’état civil ?",
+    "options": [
+      "Un registre des naissances",
+      "Un registre des mariages",
+      "Un registre des décès",
+      "Un registre des actes divers"
+    ],
+    "reponses_correctes": "WzAsIDEsIDIsIDNd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcXVhdHJlIHLDqXBvbnNlcy4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_273",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Au temps de la révolution, que signifie CDR ?",
+    "options": [
+      "Les Comités de Défense de la Révolution",
+      "Les Conseillers de Défense de la Révolution",
+      "Les Comités de Défense Révolutionnaire",
+      "Les Comités des Différends de la Révolution"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBMZXMgQ29taXTDqXMgZGUgRMOpZmVuc2UgZGUgbGEgUsOpdm9sdXRpb24gwrsu",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_274",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quelle est la date de la Journée mondiale de lutte contre le paludisme ?",
+    "options": [
+      "14 juin",
+      "05 mai",
+      "25 avril",
+      "1er décembre"
+    ],
+    "reponses_correctes": "WzJd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSAyNSBhdnJpbC4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_275",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Radio Munyu émet à partir de quelle ville ?",
+    "options": [
+      "Banfora",
+      "Dédougou",
+      "Garoua",
+      "Nouna"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBCYW5mb3JhLg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_276",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "À l’Assemblée législative de la transition, combien de députés ont voté « oui » pour la révision de la Constitution le 30 décembre 2023 ?",
+    "options": [
+      "64",
+      "65",
+      "70",
+      "71"
+    ],
+    "reponses_correctes": "WzFd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSA2NS4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_277",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "À la Coupe du monde U17, le Burkina a battu quelle équipe ?",
+    "options": [
+      "France",
+      "USA",
+      "Corée du Sud",
+      "Indonésie"
+    ],
+    "reponses_correctes": "WzJd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsYSBDb3LDqWUgZHUgU3VkLg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_278",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "En Coupe du monde U17 de 2023, le BF était à sa quelle nième participation ?",
+    "options": [
+      "3e",
+      "4e",
+      "5e",
+      "6e"
+    ],
+    "reponses_correctes": "WzNd",
+    "explication": "TGEgQ291cGUgZHUgbW9uZGUgVTE3IDIwMjMgY29ycmVzcG9uZGFpdCDDoCBsYSBzaXhpw6htZSBwYXJ0aWNpcGF0aW9uIGR1IEJ1cmtpbmEgRmFzbyDDoCBjZXR0ZSBjb21ww6l0aXRpb24u",
+    "version": 2,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_279",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "multiple",
+    "question": "Donner la date de création et le slogan du musée national.",
+    "options": [
+      "1960",
+      "1962",
+      "« Le musée national du Burkina, plus qu’un lieu de mémoire »",
+      "« Le musée national du Burkina, un lieu pour se ressourcer »"
+    ],
+    "reponses_correctes": "WzEsIDJd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZXMgcsOpcG9uc2VzIEIgZXQgQy4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_280",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quel est le maillot le plus convoité lors du Tour cycliste du Faso ?",
+    "options": [
+      "Le maillot jaune",
+      "Le maillot vert",
+      "Le maillot rose",
+      "Le maillot blanc"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBsZSBtYWlsbG90IGphdW5lLg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_281",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Que signifie Burkina Suudu Bawdè ?",
+    "options": [
+      "La maison des compétences du Burkina",
+      "Les intellectuels du Burkina",
+      "La paix au Burkina",
+      "Rassemblement des Burkinabè"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSDCqyBsYSBtYWlzb24gZGVzIGNvbXDDqXRlbmNlcyBkdSBCdXJraW5hIMK7Lg==",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
+  },
+  {
+    "id": "FR_2026_282",
+    "matiere": "burkinafaso",
+    "categorie": "culture_generale",
+    "type": "single",
+    "question": "Quel président français a été le premier à visiter le BF ?",
+    "options": [
+      "Charles De Gaulle",
+      "Valéry Giscard d’Estaing",
+      "Georges Pompidou",
+      "François Mitterrand"
+    ],
+    "reponses_correctes": "WzBd",
+    "explication": "TGUgY29ycmlnw6kgZHUgZG9jdW1lbnQgaW5kaXF1ZSBDaGFybGVzIERlIEdhdWxsZS4=",
+    "version": 1,
+    "date_creation": "2026-09-19",
+    "date_derniere_modification": "2026-09-23"
   }
 ]
